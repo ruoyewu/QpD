@@ -3,9 +3,9 @@ package zigzag_conversion;
 import java.util.Scanner;
 
 /**
- * @User: wuruoye
- * @Date: 2018/6/19 07:42
- * @Descrition:
+ * User: wuruoye
+ * Date: 2018/6/19 07:42
+ * Description: ½âÌâ´úÂë
  */
 public class Main {
     public static void main(String[] args) {
