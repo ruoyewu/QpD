@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/string_to_integer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expression_matching/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expression_matching/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,16 +21,40 @@
         <entry file="file://$PROJECT_DIR$/src/median_of_two_sorted_arrays/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1870">
-              <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/regular_expression_matching/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="524">
+              <caret line="38" column="56" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="56" />
+              <caret line="39" column="69" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="69" />
+              <caret line="40" column="42" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="42" />
+              <caret line="42" column="47" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="47" />
+              <caret line="43" column="55" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="55" />
+              <caret line="44" column="79" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="79" />
+              <caret line="45" column="47" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="47" />
+              <caret line="46" column="67" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="67" />
+              <caret line="47" column="71" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="71" />
+              <caret line="48" column="23" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="23" />
+              <caret line="49" column="55" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="55" />
+              <caret line="50" column="17" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="17" />
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="13" />
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+              <caret line="54" column="24" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="24" />
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -38,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/src/reverse_integer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -75,11 +100,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1280" />
-    <option name="y" value="-385" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="59" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="1417" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -175,7 +200,13 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string_to_integer" type="462c0819:PsiDirectoryNode" />
+              <item name="median_of_two_sorted_arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="regular_expression_matching" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +225,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="tasks.servers" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,7 +239,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -241,6 +272,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string_to_integer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regular_expression_matching.Main" />
+      <module name="QpD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="regular_expression_matching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,9 +344,11 @@
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -326,7 +370,8 @@
       <workItem from="1529388365335" duration="5695000" />
       <workItem from="1529492427223" duration="1391000" />
       <workItem from="1529587472090" duration="3030000" />
-      <workItem from="1529640397117" duration="5610000" />
+      <workItem from="1529640397117" duration="7649000" />
+      <workItem from="1529978200997" duration="2564000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -356,14 +401,21 @@
       <option name="project" value="LOCAL" />
       <updated>1529644779273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="string to integer">
+      <created>1529647964602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529647964602</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26047000" />
+    <option name="totallyTimeSpent" value="30650000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1280" y="-385" width="1280" height="1417" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -380,7 +432,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.7058824" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26979" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,7 +458,8 @@
     <MESSAGE value="zigzag conversion" />
     <MESSAGE value="median of two sorted arrays" />
     <MESSAGE value="reverse integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse integer" />
+    <MESSAGE value="string to integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="string to integer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,6 +470,34 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/median_of_two_sorted_arrays/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverse_integer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/regular_expression_matching/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/median_of_two_sorted_arrays/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -469,36 +550,76 @@
     <entry file="file://$PROJECT_DIR$/src/reverse_integer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/median_of_two_sorted_arrays/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1870">
-          <caret line="110" column="9" lean-forward="true" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/regular_expression_matching/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="524">
+          <caret line="38" column="56" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="56" />
+          <caret line="39" column="69" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="69" />
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="42" />
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="47" />
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="55" />
+          <caret line="44" column="79" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="79" />
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="47" />
+          <caret line="46" column="67" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="67" />
+          <caret line="47" column="71" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="71" />
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="23" />
+          <caret line="49" column="55" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="55" />
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="17" />
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="13" />
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="24" />
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>javax.servlet.jsp:jsp-api:2.1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -511,6 +632,18 @@
       <state key="JdkListConfigurable.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>QpD</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
