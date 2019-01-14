@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/merge_k_sorted_lists/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/merge_k_sorted_lists/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longest_valid_parentheses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longest_valid_parentheses/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/next_permutation/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generate_parentheses/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/generate_parentheses/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/merge_k_sorted_lists/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="796">
@@ -55,6 +55,61 @@
                 <element signature="e#2824#2825#0" expanded="true" />
                 <element signature="e#2877#2878#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/next_permutation/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/longest_valid_parentheses/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1136">
+              <caret line="84" column="58" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="58" />
+              <caret line="85" column="45" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="45" />
+              <caret line="86" column="46" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="46" />
+              <caret line="87" column="37" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="37" />
+              <caret line="88" column="23" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="23" />
+              <caret line="89" column="20" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="20" />
+              <caret line="90" column="24" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="24" />
+              <caret line="91" column="13" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="13" />
+              <caret line="93" column="32" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="32" />
+              <caret line="94" column="53" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="53" />
+              <caret line="95" column="38" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="38" />
+              <caret line="96" column="33" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="33" />
+              <caret line="97" column="13" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="13" />
+              <caret line="98" column="9" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="9" />
+              <caret line="100" column="25" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="25" />
+              <caret line="101" column="49" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="49" />
+              <caret line="102" column="37" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="37" />
+              <caret line="103" column="23" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="23" />
+              <caret line="104" column="20" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="20" />
+              <caret line="105" column="24" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="24" />
+              <caret line="106" column="13" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="13" />
+              <caret line="108" column="32" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="32" />
+              <caret line="109" column="52" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="52" />
+              <caret line="110" column="38" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="38" />
+              <caret line="111" column="33" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="33" />
+              <caret line="112" column="13" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="13" />
+              <caret line="113" column="9" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="9" />
+              <caret line="115" column="23" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="23" />
+              <caret line="116" column="5" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -96,6 +151,8 @@
         <option value="$PROJECT_DIR$/src/merge_two_sorted_lists/Main.java" />
         <option value="$PROJECT_DIR$/src/generate_parentheses/Main.java" />
         <option value="$PROJECT_DIR$/src/merge_k_sorted_lists/Main.java" />
+        <option value="$PROJECT_DIR$/src/next_permutation/Main.java" />
+        <option value="$PROJECT_DIR$/src/longest_valid_parentheses/Main.java" />
       </list>
     </option>
   </component>
@@ -214,13 +271,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="merge_k_sorted_lists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QpD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="merge_two_sorted_lists" type="462c0819:PsiDirectoryNode" />
+              <item name="longest_valid_parentheses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -398,7 +449,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="31812000" />
+      <workItem from="1547199061302" duration="40023000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -484,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547363232990</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="merge_k_sorted_lists">
+      <created>1547426479259</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547426479259</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76938000" />
+    <option name="totallyTimeSpent" value="85149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="-469" width="1280" height="1417" extended-state="0" />
@@ -508,7 +566,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.7058824" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.2907916" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.2907916" />
       <window_info anchor="right" id="Database" order="3" weight="0.32956383" />
       <window_info id="Structure" order="6" sideWeight="0.5029412" side_tool="true" weight="0.2819063" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
@@ -541,7 +599,8 @@
     <MESSAGE value="valid_parentheses" />
     <MESSAGE value="merge_two_sorted_lists" />
     <MESSAGE value="generate_parentheses" />
-    <option name="LAST_COMMIT_MESSAGE" value="generate_parentheses" />
+    <MESSAGE value="merge_k_sorted_lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge_k_sorted_lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -570,20 +629,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7157">
-          <caret line="421" column="34" lean-forward="true" selection-start-line="421" selection-start-column="34" selection-end-line="421" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="11" lean-forward="true" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reverse_integer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -857,13 +902,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/valid_parentheses/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -940,6 +978,55 @@
             <element signature="e#2824#2825#0" expanded="true" />
             <element signature="e#2877#2878#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/next_permutation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/longest_valid_parentheses/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1136">
+          <caret line="84" column="58" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="58" />
+          <caret line="85" column="45" selection-start-line="85" selection-start-column="4" selection-end-line="85" selection-end-column="45" />
+          <caret line="86" column="46" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="46" />
+          <caret line="87" column="37" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="37" />
+          <caret line="88" column="23" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="23" />
+          <caret line="89" column="20" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="20" />
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="24" />
+          <caret line="91" column="13" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="13" />
+          <caret line="93" column="32" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="32" />
+          <caret line="94" column="53" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="53" />
+          <caret line="95" column="38" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="38" />
+          <caret line="96" column="33" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="33" />
+          <caret line="97" column="13" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="13" />
+          <caret line="98" column="9" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="9" />
+          <caret line="100" column="25" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="25" />
+          <caret line="101" column="49" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="49" />
+          <caret line="102" column="37" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="37" />
+          <caret line="103" column="23" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="23" />
+          <caret line="104" column="20" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="20" />
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="24" />
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="13" />
+          <caret line="108" column="32" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="32" />
+          <caret line="109" column="52" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="52" />
+          <caret line="110" column="38" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="38" />
+          <caret line="111" column="33" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="33" />
+          <caret line="112" column="13" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="13" />
+          <caret line="113" column="9" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="9" />
+          <caret line="115" column="23" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="23" />
+          <caret line="116" column="5" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="5" />
         </state>
       </provider>
     </entry>
