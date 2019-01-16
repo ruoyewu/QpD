@@ -90,7 +90,7 @@ public static void rotate(int[][] matrix) {
 
 ```java
 public static void rotate(int[][] matrix) {
-    int n = matrix.length;
+    int n = matrix.lerength;
     for (int i = 0; i < n / 2 + n % 2; i++) {
         for (int j = 0; j < n / 2; j++) {
             int tmp = matrix[i][j];
