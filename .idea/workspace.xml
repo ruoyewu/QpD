@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/maximun_subarray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximun_subarray/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jump_game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jump_game/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QpD.graffle" beforeDir="false" afterPath="$PROJECT_DIR$/QpD.graffle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,90 +30,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/search_in_rotated_sorted_array/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/find_first_and_last_position/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/combination_sum/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/trapping_rain_water/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="983">
-              <caret line="74" column="41" lean-forward="true" selection-start-line="74" selection-start-column="41" selection-end-line="74" selection-end-column="41" />
-              <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/permutations/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rotate_image/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/group_anagrams/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/maximun_subarray/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/jump_game/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="e#1218#1219#0" expanded="true" />
-                <element signature="e#1245#1246#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1054">
+              <caret line="54" column="48" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="48" />
+              <caret line="55" column="33" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="33" />
+              <caret line="56" column="41" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="41" />
+              <caret line="57" column="38" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="38" />
+              <caret line="58" column="25" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="25" />
+              <caret line="59" column="13" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
+              <caret line="60" column="9" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="9" />
+              <caret line="61" column="25" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="25" />
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -158,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/rotate_image/Main.java" />
         <option value="$PROJECT_DIR$/src/group_anagrams/Main.java" />
         <option value="$PROJECT_DIR$/src/maximun_subarray/Main.java" />
+        <option value="$PROJECT_DIR$/src/jump_game/Main.java" />
       </list>
     </option>
   </component>
@@ -276,7 +205,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maximun_subarray" type="462c0819:PsiDirectoryNode" />
+              <item name="jump_game" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -454,7 +383,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="73004000" />
+      <workItem from="1547199061302" duration="76409000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -603,11 +532,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547613290387</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="maximum_subarray">
+      <created>1547619302070</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1547619302070</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118130000" />
+    <option name="totallyTimeSpent" value="121535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="-469" width="1280" height="1417" extended-state="0" />
@@ -668,7 +604,8 @@
     <MESSAGE value="permutations" />
     <MESSAGE value="rotate_image" />
     <MESSAGE value="group_anagrams" />
-    <option name="LAST_COMMIT_MESSAGE" value="group_anagrams" />
+    <MESSAGE value="maximum_subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="maximum_subarray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,13 +640,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/regular_expression_matching/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -1083,12 +1013,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/maximun_subarray/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="367">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding>
             <element signature="e#1218#1219#0" expanded="true" />
             <element signature="e#1245#1246#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jump_game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="48" />
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="33" />
+          <caret line="56" column="41" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="41" />
+          <caret line="57" column="38" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="38" />
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="25" />
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="13" />
+          <caret line="60" column="9" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="9" />
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="25" />
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
