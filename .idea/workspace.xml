@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/group_anagrams/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/group_anagrams/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maximun_subarray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maximun_subarray/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rotate_image/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotate_image/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QpD.graffle" beforeDir="false" afterPath="$PROJECT_DIR$/QpD.graffle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,11 +97,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/group_anagrams/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="473">
               <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/maximun_subarray/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#1218#1219#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,6 +157,7 @@
         <option value="$PROJECT_DIR$/src/permutations/Main.java" />
         <option value="$PROJECT_DIR$/src/rotate_image/Main.java" />
         <option value="$PROJECT_DIR$/src/group_anagrams/Main.java" />
+        <option value="$PROJECT_DIR$/src/maximun_subarray/Main.java" />
       </list>
     </option>
   </component>
@@ -262,7 +276,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="group_anagrams" type="462c0819:PsiDirectoryNode" />
+              <item name="maximun_subarray" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -440,7 +454,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="69351000" />
+      <workItem from="1547199061302" duration="73004000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -582,14 +596,22 @@
       <option name="project" value="LOCAL" />
       <updated>1547551208126</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="group_anagrams">
+      <created>1547613290387</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1547613290387</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114477000" />
+    <option name="totallyTimeSpent" value="118130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="-469" width="1280" height="1417" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -645,7 +667,8 @@
     <MESSAGE value="combination_sum" />
     <MESSAGE value="permutations" />
     <MESSAGE value="rotate_image" />
-    <option name="LAST_COMMIT_MESSAGE" value="rotate_image" />
+    <MESSAGE value="group_anagrams" />
+    <option name="LAST_COMMIT_MESSAGE" value="group_anagrams" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -680,13 +703,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/median_of_two_sorted_arrays/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1870">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string_to_integer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -1062,6 +1078,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
           <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maximun_subarray/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
