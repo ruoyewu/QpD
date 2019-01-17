@@ -54,7 +54,35 @@ public static int uniquePaths(int m, int n) {
 }
 ```
 
-但是这种方法运行超时了，不过不用运行也知道，实在是有太多的重复计算了。
+但是这种方法运行超时了，不过不用运行也知道，实在是有太多的重复计算了。不过对于这个 m\*n 的数组来说，它最多也就是有 m\*n 中不同的值，所以我们可以使用一个数组保存已经计算过的某点的解，那么就不需要重复计算了：
+
+```java
+public static int uniquePaths(int m, int n) {
+    int[][] saved = new int[m][n];
+    for (int i = 0; i < m; i++) {
+        Arrays.fill(saved[i], -1);
+    }
+    saved[m-1][n-1] = 1;
+    return max(m, n, 0, 0, saved);
+}
+public static int max(int m, int n, int i, int j, int[][] saved) {
+    int result;
+    if (saved[i][j] > 0) {
+        return saved[i][j];
+    }
+    if (i == m-1 && j == n-1) {
+        result = 1;
+    } else if (i == m-1) {
+        result = max(m, n, i, j+1, saved);
+    } else if (j == n-1) {
+        result = max(m, n, i+1, j, saved);
+    } else {
+        result = max(m, n, i+1, j, saved) + max(m, n, i, j+1, saved);
+    }
+    saved[i][j] = result;
+    return result;
+
+```
 
 ### S2:动态规划法
 

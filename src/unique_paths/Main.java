@@ -28,6 +28,33 @@ public class Main {
         }
     }
 
+    public static int uniquePaths5(int m, int n) {
+        int[][] saved = new int[m][n];
+        for (int i = 0; i < m; i++) {
+            Arrays.fill(saved[i], -1);
+        }
+        saved[m-1][n-1] = 1;
+        return max(m, n, 0, 0, saved);
+    }
+
+    public static int max(int m, int n, int i, int j, int[][] saved) {
+        int result;
+        if (saved[i][j] > 0) {
+            return saved[i][j];
+        }
+        if (i == m-1 && j == n-1) {
+            result = 1;
+        } else if (i == m-1) {
+            result = max(m, n, i, j+1, saved);
+        } else if (j == n-1) {
+            result = max(m, n, i+1, j, saved);
+        } else {
+            result = max(m, n, i+1, j, saved) + max(m, n, i, j+1, saved);
+        }
+        saved[i][j] = result;
+        return result;
+    }
+
     public static int uniquePaths2(int m, int n) {
         int[][] paths = new int[m][n];
         Arrays.fill(paths[0], 1);
