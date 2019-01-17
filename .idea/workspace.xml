@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/merge_intervals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/merge_intervals/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unique_paths/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unique_paths/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QpD.graffle" beforeDir="false" afterPath="$PROJECT_DIR$/QpD.graffle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/merge_intervals/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -41,6 +41,19 @@
                 <element signature="e#1084#1085#0" expanded="true" />
                 <element signature="e#3420#3421#0" expanded="true" />
                 <element signature="e#3478#3479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/unique_paths/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="743">
+              <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/maximun_subarray/Main.java" />
         <option value="$PROJECT_DIR$/src/jump_game/Main.java" />
         <option value="$PROJECT_DIR$/src/merge_intervals/Main.java" />
+        <option value="$PROJECT_DIR$/src/unique_paths/Main.java" />
       </list>
     </option>
   </component>
@@ -205,7 +219,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="merge_intervals" type="462c0819:PsiDirectoryNode" />
+              <item name="unique_paths" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -383,7 +397,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="86429000" />
+      <workItem from="1547199061302" duration="90118000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -546,11 +560,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547629394980</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="merge_intervals">
+      <created>1547702345295</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1547702345295</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131555000" />
+    <option name="totallyTimeSpent" value="135244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1280" y="-469" width="1280" height="1417" extended-state="0" />
@@ -613,7 +634,8 @@
     <MESSAGE value="group_anagrams" />
     <MESSAGE value="maximum_subarray" />
     <MESSAGE value="jump_game" />
-    <option name="LAST_COMMIT_MESSAGE" value="jump_game" />
+    <MESSAGE value="merge_intervals" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge_intervals" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,13 +670,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/container_with_most_water/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reverse_integer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1039,6 +1054,17 @@
             <element signature="e#1084#1085#0" expanded="true" />
             <element signature="e#3420#3421#0" expanded="true" />
             <element signature="e#3478#3479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/unique_paths/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
           </folding>
         </state>
       </provider>
