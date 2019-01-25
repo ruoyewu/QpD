@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/maximal_rectangle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximal_rectangle/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_inorder_traversal/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/QpD.graffle" beforeDir="false" afterPath="$PROJECT_DIR$/QpD.graffle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/largest_rectangle_in_histogram/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/largest_rectangle_in_histogram/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/maximal_rectangle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="411">
@@ -73,6 +71,40 @@
               <caret line="140" column="5" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="5" />
               <folding>
                 <element signature="docComment;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="62" column="66" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="66" />
+              <caret line="63" column="49" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="49" />
+              <caret line="64" column="28" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="28" />
+              <caret line="65" column="21" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="21" />
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="29" />
+              <caret line="67" column="35" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="35" />
+              <caret line="68" column="36" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="36" />
+              <caret line="69" column="32" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="32" />
+              <caret line="70" column="20" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="20" />
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="31" />
+              <caret line="72" column="43" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="43" />
+              <caret line="73" column="36" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="36" />
+              <caret line="74" column="17" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="17" />
+              <caret line="75" column="32" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="32" />
+              <caret line="76" column="35" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="35" />
+              <caret line="77" column="31" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="31" />
+              <caret line="78" column="32" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="32" />
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="13" />
+              <caret line="80" column="9" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="9" />
+              <caret line="81" column="22" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="22" />
+              <caret line="82" column="5" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#243#244#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/permutations/Main.java" />
         <option value="$PROJECT_DIR$/src/largest_rectangle_in_histogram/Main.java" />
         <option value="$PROJECT_DIR$/src/maximal_rectangle/Main.java" />
+        <option value="$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java" />
       </list>
     </option>
   </component>
@@ -161,7 +194,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -260,13 +293,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="largest_rectangle_in_histogram" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QpD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maximal_rectangle" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_tree_inorder_traversal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -444,7 +471,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="143403000" />
+      <workItem from="1547199061302" duration="146393000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -670,14 +697,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548399559530</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="maximal_rectangle">
+      <created>1548420714102</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1548420714102</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188529000" />
+    <option name="totallyTimeSpent" value="191519000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -717,7 +751,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="string to integer" />
     <MESSAGE value="three_num" />
     <MESSAGE value="letter_combinations" />
     <MESSAGE value="remove_nth_node" />
@@ -742,7 +775,8 @@
     <MESSAGE value="subsets" />
     <MESSAGE value="word_search" />
     <MESSAGE value="largest_rectangle_in_histogram" />
-    <option name="LAST_COMMIT_MESSAGE" value="largest_rectangle_in_histogram" />
+    <MESSAGE value="maximal_rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="maximal_rectangle" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -778,13 +812,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/zigzag_conversion/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="1" lean-forward="true" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1222,6 +1249,38 @@
           <caret line="140" column="5" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="5" />
           <folding>
             <element signature="docComment;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="62" column="66" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="66" />
+          <caret line="63" column="49" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="49" />
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="28" />
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="21" />
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="29" />
+          <caret line="67" column="35" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="35" />
+          <caret line="68" column="36" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="36" />
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="32" />
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="20" />
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="31" />
+          <caret line="72" column="43" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="43" />
+          <caret line="73" column="36" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="36" />
+          <caret line="74" column="17" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="17" />
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="32" />
+          <caret line="76" column="35" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="35" />
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="31" />
+          <caret line="78" column="32" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="32" />
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="13" />
+          <caret line="80" column="9" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="9" />
+          <caret line="81" column="22" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="22" />
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
