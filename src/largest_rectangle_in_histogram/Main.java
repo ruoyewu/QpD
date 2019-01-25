@@ -44,7 +44,7 @@ public class Main {
         }
 
         if (sorted) {
-            int max = heights[start];
+            int max = heights[start] * (end - start + 1);
             for (int i = start+1; i <= end; i++) {
                 max = Math.max(max, heights[i] * (end - i + 1));
             }
