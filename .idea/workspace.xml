@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/symmetric_tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/symmetric_tree/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_level_order_traversal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_level_order_traversal/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,61 +30,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/validate_binary_search_tree/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="62" column="54" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="54" />
-              <caret line="63" column="62" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="62" />
-              <caret line="36" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
-              <caret line="66" column="71" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="71" />
-              <caret line="67" column="38" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="38" />
-              <caret line="68" column="61" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="61" />
-              <caret line="69" column="89" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="89" />
-              <caret line="62" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="5" />
-              <folding>
-                <element signature="e#1633#1634#0" expanded="true" />
-                <element signature="e#1665#1666#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/symmetric_tree/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/binary_tree_level_order_traversal/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="39" column="55" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="55" />
-              <caret line="40" column="38" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="38" />
-              <caret line="41" column="46" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="46" />
-              <caret line="42" column="30" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="30" />
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="31" />
-              <caret line="44" column="29" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="29" />
-              <caret line="46" column="32" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="32" />
-              <caret line="47" column="31" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="31" />
-              <caret line="48" column="32" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="32" />
-              <caret line="49" column="48" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="48" />
-              <caret line="51" column="54" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="54" />
-              <caret line="52" column="29" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="29" />
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="20" />
-              <caret line="54" column="44" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="44" />
-              <caret line="55" column="42" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="42" />
-              <caret line="56" column="44" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="44" />
-              <caret line="57" column="43" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="43" />
-              <caret line="58" column="43" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="43" />
-              <caret line="59" column="24" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="24" />
-              <caret line="60" column="33" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="33" />
-              <caret line="61" column="17" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="17" />
-              <caret line="62" column="13" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="13" />
-              <caret line="63" column="9" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="9" />
-              <caret line="64" column="20" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="20" />
-              <caret line="65" column="5" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="275">
+              <caret line="26" column="65" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="65" />
+              <caret line="27" column="55" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="55" />
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="27" />
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="26" />
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="9" />
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="55" />
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="22" />
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="23" />
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="17" />
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="33" />
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="31" />
+              <caret line="37" column="52" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="52" />
+              <caret line="38" column="44" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="44" />
+              <caret line="39" column="42" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="42" />
+              <caret line="40" column="36" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="36" />
+              <caret line="41" column="40" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="40" />
+              <caret line="42" column="40" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="40" />
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="17" />
+              <caret line="44" column="41" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="41" />
+              <caret line="45" column="41" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="41" />
+              <caret line="46" column="17" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="17" />
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="13" />
+              <caret line="48" column="30" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="30" />
+              <caret line="49" column="9" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="9" />
+              <caret line="50" column="22" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="22" />
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
               <folding>
-                <element signature="docComment;class#Main#0" />
-                <element signature="class#TreeNode#0;class#Main#0" />
-                <element signature="method#main#0;class#Main#0" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#278#279#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/unique_binary_search_trees/Main.java" />
         <option value="$PROJECT_DIR$/src/validate_binary_search_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/symmetric_tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/binary_tree_level_order_traversal/Main.java" />
       </list>
     </option>
   </component>
@@ -264,7 +244,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="symmetric_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_tree_level_order_traversal" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -442,7 +422,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="155067000" />
+      <workItem from="1547199061302" duration="156914000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -696,11 +676,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548481664447</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="symmetric_tree">
+      <created>1548485623417</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1548485623417</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200193000" />
+    <option name="totallyTimeSpent" value="202040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -743,7 +730,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="valid_parentheses" />
     <MESSAGE value="merge_two_sorted_lists" />
     <MESSAGE value="generate_parentheses" />
     <MESSAGE value="merge_k_sorted_lists" />
@@ -768,7 +754,8 @@
     <MESSAGE value="binary_tree_inorder_traversal" />
     <MESSAGE value="unique_binary_search_tree" />
     <MESSAGE value="validate_binary_search_tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="validate_binary_search_tree" />
+    <MESSAGE value="symmetric_tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="symmetric_tree" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -804,13 +791,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/regular_expression_matching/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/container_with_most_water/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1269,36 +1249,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/symmetric_tree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="39" column="55" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="55" />
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="38" />
-          <caret line="41" column="46" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="46" />
-          <caret line="42" column="30" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="30" />
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="31" />
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="29" />
-          <caret line="46" column="32" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="32" />
-          <caret line="47" column="31" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="31" />
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="32" />
-          <caret line="49" column="48" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="48" />
-          <caret line="51" column="54" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="54" />
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="29" />
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="20" />
-          <caret line="54" column="44" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="44" />
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="42" />
-          <caret line="56" column="44" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="44" />
-          <caret line="57" column="43" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="43" />
-          <caret line="58" column="43" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="43" />
-          <caret line="59" column="24" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="24" />
-          <caret line="60" column="33" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="33" />
-          <caret line="61" column="17" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="17" />
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="13" />
-          <caret line="63" column="9" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="9" />
-          <caret line="64" column="20" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="20" />
-          <caret line="65" column="5" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="187">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="55" />
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="38" />
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="46" />
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="30" />
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="31" />
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="29" />
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="32" />
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="31" />
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="32" />
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="48" />
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="54" />
+          <caret line="42" column="29" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="29" />
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="20" />
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="44" />
+          <caret line="45" column="42" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="42" />
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="44" />
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="43" />
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="43" />
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="24" />
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="33" />
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="17" />
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="13" />
+          <caret line="53" column="9" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="9" />
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="20" />
+          <caret line="20" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="docComment;class#Main#0" />
-            <element signature="class#TreeNode#0;class#Main#0" />
             <element signature="method#main#0;class#Main#0" />
+            <element signature="class#TreeNode#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_level_order_traversal/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="26" column="65" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="65" />
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="55" />
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="27" />
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="26" />
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="9" />
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="55" />
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="22" />
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="23" />
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="17" />
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="33" />
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="31" />
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="52" />
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="44" />
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="42" />
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="36" />
+          <caret line="41" column="40" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="40" />
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="40" />
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="17" />
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="41" />
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="41" />
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="17" />
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="13" />
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="30" />
+          <caret line="49" column="9" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="9" />
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="22" />
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
           </folding>
         </state>
       </provider>
