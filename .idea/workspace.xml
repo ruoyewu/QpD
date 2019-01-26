@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/unique_binary_serach_trees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/unique_binary_serach_trees/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validate_binary_search_tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/validate_binary_search_tree/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,13 +31,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/unique_binary_serach_trees/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/validate_binary_search_tree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+              <caret line="71" column="54" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="54" />
+              <caret line="72" column="62" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="62" />
+              <caret line="73" column="5" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+              <caret line="75" column="71" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="71" />
+              <caret line="76" column="38" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="38" />
+              <caret line="77" column="61" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="61" />
+              <caret line="78" column="89" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="89" />
+              <caret line="79" column="5" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
               <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#1633#1634#0" expanded="true" />
+                <element signature="e#1665#1666#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,6 +106,8 @@
         <option value="$PROJECT_DIR$/src/maximal_rectangle/Main.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java" />
         <option value="$PROJECT_DIR$/src/unique_binary_serach_trees/Main.java" />
+        <option value="$PROJECT_DIR$/src/unique_binary_search_trees/Main.java" />
+        <option value="$PROJECT_DIR$/src/validate_binary_search_tree/Main.java" />
       </list>
     </option>
   </component>
@@ -214,7 +225,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="unique_binary_serach_trees" type="462c0819:PsiDirectoryNode" />
+              <item name="validate_binary_search_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +403,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="149114000" />
+      <workItem from="1547199061302" duration="151460000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -632,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548424829022</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="unique_binary_search_tree">
+      <created>1548476033761</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548476033761</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194240000" />
+    <option name="totallyTimeSpent" value="196586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -679,7 +697,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="letter_combinations" />
     <MESSAGE value="remove_nth_node" />
     <MESSAGE value="valid_parentheses" />
     <MESSAGE value="merge_two_sorted_lists" />
@@ -704,7 +721,8 @@
     <MESSAGE value="largest_rectangle_in_histogram" />
     <MESSAGE value="maximal_rectangle" />
     <MESSAGE value="binary_tree_inorder_traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="binary_tree_inorder_traversal" />
+    <MESSAGE value="unique_binary_search_tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="unique_binary_search_tree" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -740,13 +758,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="2433" selection-start-line="2433" selection-end-line="2433" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reverse_integer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1186,13 +1197,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/unique_binary_serach_trees/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/unique_binary_search_trees/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding>
             <element signature="e#166#167#0" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/validate_binary_search_tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="71" column="54" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="54" />
+          <caret line="72" column="62" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="62" />
+          <caret line="73" column="5" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="5" />
+          <caret line="75" column="71" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="71" />
+          <caret line="76" column="38" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="38" />
+          <caret line="77" column="61" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="61" />
+          <caret line="78" column="89" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="89" />
+          <caret line="79" column="5" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#1633#1634#0" expanded="true" />
+            <element signature="e#1665#1666#0" expanded="true" />
           </folding>
         </state>
       </provider>
