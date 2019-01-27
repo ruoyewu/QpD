@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_maximum_path_sum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_tree_maximum_path_sum/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/best_time_to_buy_and_sell_stock/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/best_time_to_buy_and_sell_stock/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +32,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/Main.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/best_time_to_buy_and_sell_stock/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="54">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/binary_tree_maximum_path_sum/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="31" />
+              <caret line="23" column="49" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="49" />
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="36" />
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="22" />
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="23" />
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="47" />
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="35" />
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="38" />
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="40" />
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="27" />
+              <caret line="34" column="34" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="34" />
+              <caret line="35" column="36" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="36" />
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="28" />
+              <caret line="37" column="26" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="26" />
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="9" />
+              <caret line="39" column="61" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="61" />
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +133,8 @@
         <option value="$PROJECT_DIR$/src/construct_binary_tree_from_preorder_and_inorder_traversal/Main.java" />
         <option value="$PROJECT_DIR$/src/flatten_binary_tree_to_linked_list/Main.java" />
         <option value="$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/Main.java" />
+        <option value="$PROJECT_DIR$/src/best_time_to_buy_and_sell_stock/Main.java" />
+        <option value="$PROJECT_DIR$/src/binary_tree_maximum_path_sum/Main.java" />
       </list>
     </option>
   </component>
@@ -218,7 +252,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="best_time_to_bug_and_sell_stock" type="462c0819:PsiDirectoryNode" />
+              <item name="binary_tree_maximum_path_sum" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -407,7 +441,7 @@
       <workItem from="1534904857089" duration="871000" />
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
-      <workItem from="1547199061302" duration="171399000" />
+      <workItem from="1547199061302" duration="174104000" />
     </task>
     <task id="LOCAL-00001" summary="zigzag conversion">
       <created>1529388511705</created>
@@ -696,11 +730,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548512715730</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="best_time_to_buy_and_sell_stock">
+      <created>1548564717884</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1548564717884</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216525000" />
+    <option name="totallyTimeSpent" value="219230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -743,7 +784,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="search_in_rotated_sorted_array" />
     <MESSAGE value="find_first_and_last_position" />
     <MESSAGE value="combination_sum" />
     <MESSAGE value="permutations" />
@@ -768,7 +808,8 @@
     <MESSAGE value="maximum_depth_of_binary_tree" />
     <MESSAGE value="construct_binary_tree_from_preorder_and_inorder_traversal" />
     <MESSAGE value="flatten_binary_tree_to_linked_list" />
-    <option name="LAST_COMMIT_MESSAGE" value="flatten_binary_tree_to_linked_list" />
+    <MESSAGE value="best_time_to_buy_and_sell_stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="best_time_to_buy_and_sell_stock" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -804,13 +845,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/three_sum/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/remove_nth_node_from_end_of_list/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1350,10 +1384,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/best_time_to_bug_and_sell_stock/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/best_time_to_buy_and_sell_stock/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="54">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/binary_tree_maximum_path_sum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="31" />
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="49" />
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="36" />
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="22" />
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="23" />
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="47" />
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="35" />
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="38" />
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="40" />
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="27" />
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="34" />
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="36" />
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="28" />
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="26" />
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="9" />
+          <caret line="39" column="61" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="61" />
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

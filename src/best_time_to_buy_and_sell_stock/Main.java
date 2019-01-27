@@ -1,4 +1,4 @@
-package best_time_to_bug_and_sell_stock;
+package best_time_to_buy_and_sell_stock;
 
 /**
  * User: wuruoye
