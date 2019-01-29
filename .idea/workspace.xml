@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/min_stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/min_stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/min_stack/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="min_stack">
+      <change afterPath="$PROJECT_DIR$/src/intersection_of_two_linked_lists/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intersection_of_two_linked_lists/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,27 +30,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/min_stack/MinStack.java">
+        <entry file="file://$PROJECT_DIR$/src/intersection_of_two_linked_lists/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="51" column="1" selection-start-line="7" selection-end-line="52" />
-              <folding>
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/min_stack/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            <state relative-caret-position="402">
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="80" />
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="45" />
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="24" />
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="21" />
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="30" />
+              <caret line="29" column="18" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="18" />
+              <caret line="30" column="29" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="29" />
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="9" />
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="30" />
+              <caret line="33" column="16" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
+              <caret line="34" column="21" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="21" />
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="30" />
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="28" />
+              <caret line="37" column="29" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="29" />
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="9" />
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="16" />
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="21" />
+              <caret line="42" column="30" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="30" />
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="18" />
+              <caret line="44" column="29" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="29" />
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="9" />
+              <caret line="46" column="30" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="30" />
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="16" />
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="21" />
+              <caret line="49" column="30" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="30" />
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="28" />
+              <caret line="51" column="29" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="29" />
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+              <caret line="54" column="49" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="49" />
+              <caret line="55" column="54" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="54" />
+              <caret line="56" column="35" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="35" />
+              <caret line="57" column="17" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="17" />
+              <caret line="58" column="17" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="17" />
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="9" />
+              <caret line="61" column="30" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="30" />
+              <caret line="62" column="5" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -71,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/remove_nth_node_from_end_of_list/Main.java" />
         <option value="$PROJECT_DIR$/src/valid_parentheses/Main.java" />
         <option value="$PROJECT_DIR$/src/merge_two_sorted_lists/Main.java" />
         <option value="$PROJECT_DIR$/src/generate_parentheses/Main.java" />
@@ -122,6 +139,7 @@
         <option value="$PROJECT_DIR$/src/maximum_product_subarray/Main.java" />
         <option value="$PROJECT_DIR$/src/min_stack/Main.java" />
         <option value="$PROJECT_DIR$/src/min_stack/MinStack.java" />
+        <option value="$PROJECT_DIR$/src/intersection_of_two_linked_lists/Main.java" />
       </list>
     </option>
   </component>
@@ -230,7 +248,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="min_stack" type="462c0819:PsiDirectoryNode" />
+              <item name="intersection_of_two_linked_lists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +262,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548728915475" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548731884949" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -418,14 +436,7 @@
       <workItem from="1547188529364" duration="159000" />
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
-      <workItem from="1548727926505" duration="899000" />
-    </task>
-    <task id="LOCAL-00001" summary="zigzag conversion">
-      <created>1529388511705</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1529388511705</updated>
+      <workItem from="1548727926505" duration="2938000" />
     </task>
     <task id="LOCAL-00002" summary="median of two sorted arrays">
       <created>1529591707767</created>
@@ -763,11 +774,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548727265272</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="min_stack">
+      <created>1548729135838</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1548729135843</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="248387000" />
+    <option name="totallyTimeSpent" value="250426000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -809,7 +827,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="merge_intervals" />
     <MESSAGE value="unique_paths" />
     <MESSAGE value="minimum_path_sum" />
     <MESSAGE value="climbing_stairs" />
@@ -834,7 +851,8 @@
     <MESSAGE value="linked_list_cycle" />
     <MESSAGE value="sort_list" />
     <MESSAGE value="maximum_product_subarray" />
-    <option name="LAST_COMMIT_MESSAGE" value="maximum_product_subarray" />
+    <MESSAGE value="min_stack" />
+    <option name="LAST_COMMIT_MESSAGE" value="min_stack" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -866,16 +884,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/combination_sum/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/trapping_rain_water/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="983">
@@ -1353,13 +1361,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lru_cache/LRUCache.java" />
-    <entry file="file://$PROJECT_DIR$/src/linked_list_cycle_2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1394,8 +1395,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/min_stack/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="51" column="1" selection-start-line="7" selection-end-line="52" />
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="e#573#574#0" expanded="true" />
             <element signature="e#595#596#0" expanded="true" />
@@ -1404,6 +1405,56 @@
             <element signature="e#697#698#0" expanded="true" />
             <element signature="e#746#747#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linked_list_cycle_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intersection_of_two_linked_lists/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="80" />
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="45" />
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="24" />
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="20" />
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="21" />
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="30" />
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="18" />
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="29" />
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="9" />
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="30" />
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="21" />
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="30" />
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="28" />
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="29" />
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="9" />
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="16" />
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="21" />
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="30" />
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="18" />
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="29" />
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="9" />
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="30" />
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="16" />
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="21" />
+          <caret line="49" column="30" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="30" />
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="28" />
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="29" />
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+          <caret line="54" column="49" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="49" />
+          <caret line="55" column="54" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="54" />
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="35" />
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="17" />
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="17" />
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="9" />
+          <caret line="61" column="30" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="30" />
+          <caret line="62" column="5" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
         </state>
       </provider>
     </entry>
