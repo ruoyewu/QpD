@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="implement_trie">
-      <change afterPath="$PROJECT_DIR$/src/kth_largest_element_in_an_array/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kth_largest_element_in_an_array/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="kth_largest_element_in_an_array">
+      <change afterPath="$PROJECT_DIR$/src/maximal_square/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maximal_square/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,79 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/course_schedule/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/maximal_square/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="93" column="9" lean-forward="true" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
+            <state relative-caret-position="568">
+              <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
               <folding>
                 <element signature="docComment;class#Main#0" />
                 <element signature="method#main#0;class#Main#0" />
-                <element signature="method#canFinish#0;class#Main#0" />
-                <element signature="e#359#389#1" />
-                <element signature="e#477#505#1" />
-                <element signature="e#629#710#1" />
-                <element signature="e#723#765#1" />
-                <element signature="e#869#1126#1" />
-                <element signature="e#920#1116#1" />
-                <element signature="e#989#1102#1" />
-                <element signature="e#1036#1091#1" />
+                <element signature="method#maximalSquare#0;class#Main#0" />
+                <element signature="e#436#676#1" />
+                <element signature="e#503#666#1" />
+                <element signature="e#546#593#1" />
+                <element signature="e#612#659#1" />
+                <element signature="e#751#1080#1" />
+                <element signature="e#793#1070#1" />
+                <element signature="e#913#1056#1" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/implement_trie/Trie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/implement_trie/Trie2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-              <folding>
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/kth_largest_element_in_an_array/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
-              <folding>
-                <element signature="docComment;class#Main#0" />
-                <element signature="e#1289#1290#0" expanded="true" />
-                <element signature="e#1322#1323#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/implement_trie/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -121,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/rotate_image/Main.java" />
         <option value="$PROJECT_DIR$/src/group_anagrams/Main.java" />
         <option value="$PROJECT_DIR$/src/maximun_subarray/Main.java" />
         <option value="$PROJECT_DIR$/src/jump_game/Main.java" />
@@ -172,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/implement_trie/Main.java" />
         <option value="$PROJECT_DIR$/src/implement_trie/Trie2.java" />
         <option value="$PROJECT_DIR$/src/kth_largest_element_in_an_array/Main.java" />
+        <option value="$PROJECT_DIR$/src/maximal_square/Main.java" />
       </list>
     </option>
   </component>
@@ -281,7 +225,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kth_largest_element_in_an_array" type="462c0819:PsiDirectoryNode" />
+              <item name="maximal_square" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,7 +238,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548845818719" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548852990755" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -319,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -354,13 +298,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="min_stack.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maximal_square.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="min_stack.*" />
+          <option name="PATTERN" value="maximal_square.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -429,19 +373,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -469,14 +413,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="14261000" />
-    </task>
-    <task id="LOCAL-00010" summary="valid_parentheses">
-      <created>1547275757089</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1547275757089</updated>
+      <workItem from="1548762553541" duration="19758000" />
     </task>
     <task id="LOCAL-00011" summary="merge_two_sorted_lists">
       <created>1547278195221</created>
@@ -814,11 +751,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548835143900</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="kth_largest_element_in_an_array">
+      <created>1548846134447</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1548846134447</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="278282000" />
+    <option name="totallyTimeSpent" value="283779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -860,7 +804,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="binary_tree_inorder_traversal" />
     <MESSAGE value="unique_binary_search_tree" />
     <MESSAGE value="validate_binary_search_tree" />
     <MESSAGE value="symmetric_tree" />
@@ -885,7 +828,8 @@
     <MESSAGE value="reverse_linked_list" />
     <MESSAGE value="course_schedule" />
     <MESSAGE value="implement_trie" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement_trie" />
+    <MESSAGE value="kth_largest_element_in_an_array" />
+    <option name="LAST_COMMIT_MESSAGE" value="kth_largest_element_in_an_array" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -909,6 +853,24 @@
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/maximal_square/Main.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/maximal_square/Main.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/maximal_square/Main.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -917,13 +879,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sort_colors/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edit_distance/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -1496,12 +1451,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kth_largest_element_in_an_array/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="68" column="1" lean-forward="true" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        <state relative-caret-position="-469">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
             <element signature="docComment;class#Main#0" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
             <element signature="e#1289#1290#0" expanded="true" />
             <element signature="e#1322#1323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maximal_square/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Main#0" />
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="method#maximalSquare#0;class#Main#0" />
+            <element signature="e#436#676#1" />
+            <element signature="e#503#666#1" />
+            <element signature="e#546#593#1" />
+            <element signature="e#612#659#1" />
+            <element signature="e#751#1080#1" />
+            <element signature="e#793#1070#1" />
+            <element signature="e#913#1056#1" />
           </folding>
         </state>
       </provider>
