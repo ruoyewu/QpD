@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="kth_largest_element_in_an_array">
-      <change afterPath="$PROJECT_DIR$/src/maximal_square/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximal_square/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="maximal_square">
+      <change afterPath="$PROJECT_DIR$/src/invert_binary_tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/invert_binary_tree/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,7 +29,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/maximal_square/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="568">
@@ -50,6 +50,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/invert_binary_tree/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <folding>
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -65,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/group_anagrams/Main.java" />
         <option value="$PROJECT_DIR$/src/maximun_subarray/Main.java" />
         <option value="$PROJECT_DIR$/src/jump_game/Main.java" />
         <option value="$PROJECT_DIR$/src/merge_intervals/Main.java" />
@@ -116,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/implement_trie/Trie2.java" />
         <option value="$PROJECT_DIR$/src/kth_largest_element_in_an_array/Main.java" />
         <option value="$PROJECT_DIR$/src/maximal_square/Main.java" />
+        <option value="$PROJECT_DIR$/src/invert_binary_tree/Main.java" />
       </list>
     </option>
   </component>
@@ -225,7 +238,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="maximal_square" type="462c0819:PsiDirectoryNode" />
+              <item name="invert_binary_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +251,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548852990755" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548854555505" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -413,14 +426,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="19758000" />
-    </task>
-    <task id="LOCAL-00011" summary="merge_two_sorted_lists">
-      <created>1547278195221</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1547278195221</updated>
+      <workItem from="1548762553541" duration="21164000" />
     </task>
     <task id="LOCAL-00012" summary="generate_parentheses">
       <created>1547363232990</created>
@@ -758,11 +764,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548846134447</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="maximal_square">
+      <created>1548853005604</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1548853005605</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283779000" />
+    <option name="totallyTimeSpent" value="285185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -804,7 +817,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="unique_binary_search_tree" />
     <MESSAGE value="validate_binary_search_tree" />
     <MESSAGE value="symmetric_tree" />
     <MESSAGE value="binary_tree_level_order_traversal" />
@@ -829,7 +841,8 @@
     <MESSAGE value="course_schedule" />
     <MESSAGE value="implement_trie" />
     <MESSAGE value="kth_largest_element_in_an_array" />
-    <option name="LAST_COMMIT_MESSAGE" value="kth_largest_element_in_an_array" />
+    <MESSAGE value="maximal_square" />
+    <option name="LAST_COMMIT_MESSAGE" value="maximal_square" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -879,13 +892,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/edit_distance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1478,6 +1484,17 @@
             <element signature="e#751#1080#1" />
             <element signature="e#793#1070#1" />
             <element signature="e#913#1056#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/invert_binary_tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
           </folding>
         </state>
       </provider>
