@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="number_of_islands">
-      <change afterPath="$PROJECT_DIR$/src/reverse_linked_list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_linked_list/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="reverse_linked_list">
+      <change afterPath="$PROJECT_DIR$/src/course_schedule/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/course_schedule/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,20 +29,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/number_of_islands/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/reverse_linked_list/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/course_schedule/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="41">
+              <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+              <folding>
+                <element signature="docComment;class#Main#0" />
+                <element signature="method#main#0;class#Main#0" />
+                <element signature="method#canFinish#0;class#Main#0" />
+                <element signature="e#359#389#1" />
+                <element signature="e#477#505#1" />
+                <element signature="e#629#710#1" />
+                <element signature="e#723#765#1" />
+                <element signature="e#869#1126#1" />
+                <element signature="e#920#1116#1" />
+                <element signature="e#989#1102#1" />
+                <element signature="e#1036#1091#1" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/longest_valid_parentheses/Main.java" />
         <option value="$PROJECT_DIR$/src/search_in_rotated_sorted_array/Main.java" />
         <option value="$PROJECT_DIR$/src/find_first_and_last_position_of_element_in_sorted_array/Main.java" />
         <option value="$PROJECT_DIR$/src/find_first_and_last_position/Main.java" />
@@ -113,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/number_of_islands/Main.java" />
         <option value="$PROJECT_DIR$/src/reverse_linked_list/M.java" />
         <option value="$PROJECT_DIR$/src/reverse_linked_list/Main.java" />
+        <option value="$PROJECT_DIR$/src/course_schedule/Main.java" />
       </list>
     </option>
   </component>
@@ -222,7 +226,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reverse_linked_list" type="462c0819:PsiDirectoryNode" />
+              <item name="course_schedule" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,7 +239,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548772405571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548829228194" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -260,20 +264,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longest_consecutive_sequence.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="course_schedule.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="longest_consecutive_sequence.*" />
+          <option name="PATTERN" value="course_schedule.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,19 +374,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -410,14 +414,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="1642000" />
-    </task>
-    <task id="LOCAL-00007" summary="three_num">
-      <created>1547199094991</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1547199094991</updated>
+      <workItem from="1548762553541" duration="8775000" />
     </task>
     <task id="LOCAL-00008" summary="letter_combinations">
       <created>1547205306992</created>
@@ -755,11 +752,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548758254065</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="reverse_linked_list">
+      <created>1548813126025</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1548813126025</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265663000" />
+    <option name="totallyTimeSpent" value="272796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -801,7 +805,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="word_search" />
     <MESSAGE value="largest_rectangle_in_histogram" />
     <MESSAGE value="maximal_rectangle" />
     <MESSAGE value="binary_tree_inorder_traversal" />
@@ -826,7 +829,8 @@
     <MESSAGE value="majority_element" />
     <MESSAGE value="house_robber" />
     <MESSAGE value="number_of_islands" />
-    <option name="LAST_COMMIT_MESSAGE" value="number_of_islands" />
+    <MESSAGE value="reverse_linked_list" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse_linked_list" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -858,26 +862,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/merge_intervals/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
-          <folding>
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1084#1085#0" expanded="true" />
-            <element signature="e#3420#3421#0" expanded="true" />
-            <element signature="e#3478#3479#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/unique_paths/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/minimum_path_sum/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -1397,13 +1381,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/number_of_islands/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1418,10 +1395,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/reverse_linked_list/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="187">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/number_of_islands/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/course_schedule/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="104" column="9" lean-forward="true" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding>
+            <element signature="docComment;class#Main#0" />
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="method#canFinish#0;class#Main#0" />
+            <element signature="e#359#389#1" />
+            <element signature="e#477#505#1" />
+            <element signature="e#629#710#1" />
+            <element signature="e#723#765#1" />
+            <element signature="e#869#1126#1" />
+            <element signature="e#920#1116#1" />
+            <element signature="e#989#1102#1" />
+            <element signature="e#1036#1091#1" />
+          </folding>
         </state>
       </provider>
     </entry>
