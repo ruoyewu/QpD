@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="palindrome_linked_list">
-      <change afterPath="$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="lowest_common_ancestor_of_a_binary_tree">
+      <change afterPath="$PROJECT_DIR$/src/product_of_array_except_self/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/product_of_array_except_self/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,10 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/product_of_array_except_self/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="115" column="1" lean-forward="true" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+            <state relative-caret-position="398">
+              <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -53,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/merge_intervals/Main.java" />
         <option value="$PROJECT_DIR$/src/unique_paths/Main.java" />
         <option value="$PROJECT_DIR$/src/minimum_path_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/climbing_stairs/Main.java" />
@@ -104,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/invert_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/palindrome_linked_list/Main.java" />
         <option value="$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/product_of_array_except_self/Main.java" />
       </list>
     </option>
   </component>
@@ -209,6 +209,12 @@
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="product_of_array_except_self" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -220,7 +226,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549006790950" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549009712694" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -395,14 +401,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="38004000" />
-    </task>
-    <task id="LOCAL-00014" summary="longest_valid_parentheses">
-      <created>1547454237809</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1547454237809</updated>
+      <workItem from="1548762553541" duration="40609000" />
     </task>
     <task id="LOCAL-00015" summary="search_in_rotated_sorted_array">
       <created>1547464424773</created>
@@ -740,14 +739,22 @@
       <option name="project" value="LOCAL" />
       <updated>1548936590539</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="lowest_common_ancestor_of_a_binary_tree">
+      <created>1549007188254</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1549007188254</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302025000" />
+    <option name="totallyTimeSpent" value="304630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.30048466" />
       <window_info id="Image Layers" order="1" />
@@ -785,7 +792,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="binary_tree_level_order_traversal" />
     <MESSAGE value="maximum_depth_of_binary_tree" />
     <MESSAGE value="construct_binary_tree_from_preorder_and_inorder_traversal" />
     <MESSAGE value="flatten_binary_tree_to_linked_list" />
@@ -810,7 +816,8 @@
     <MESSAGE value="maximal_square" />
     <MESSAGE value="invert_binary_tree" />
     <MESSAGE value="palindrome_linked_list" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindrome_linked_list" />
+    <MESSAGE value="lowest_common_ancestor_of_a_binary_tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="lowest_common_ancestor_of_a_binary_tree" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -866,17 +873,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/minimum_window_substring/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/subsets/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
@@ -1465,7 +1461,14 @@
     <entry file="file://$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="115" column="1" lean-forward="true" selection-start-line="115" selection-start-column="1" selection-end-line="115" selection-end-column="1" />
+          <caret line="116" column="1" lean-forward="true" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/product_of_array_except_self/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="44" column="16" lean-forward="true" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
         </state>
       </provider>
     </entry>
