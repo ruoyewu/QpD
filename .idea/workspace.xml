@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="search_a_2d_matrix_2">
-      <change afterPath="$PROJECT_DIR$/src/move_zeros/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/move_zeros/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="move_zeros">
+      <change afterPath="$PROJECT_DIR$/src/find_the_duplicate_number/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/find_the_duplicate_number/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,20 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/move_zeros/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/find_the_duplicate_number/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="347">
+              <caret line="14" column="49" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="49" />
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="43" />
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="12" />
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="36" />
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="31" />
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="27" />
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
+              <caret line="23" column="30" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="30" />
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="30" />
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="9" />
+              <caret line="26" column="20" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="20" />
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -62,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/edit_distance/Main.java" />
         <option value="$PROJECT_DIR$/src/sort_colors/Main.java" />
         <option value="$PROJECT_DIR$/src/minimum_window_substring/Main.java" />
         <option value="$PROJECT_DIR$/src/subsets/Main.java" />
@@ -113,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/sliding_window_maximum/Main.java" />
         <option value="$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java" />
         <option value="$PROJECT_DIR$/src/move_zeros/Main.java" />
+        <option value="$PROJECT_DIR$/src/find_the_duplicate_number/Main.java" />
       </list>
     </option>
   </component>
@@ -222,7 +225,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="move_zeros" type="462c0819:PsiDirectoryNode" />
+              <item name="find_the_duplicate_number" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,7 +238,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549098423378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549103089844" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -410,14 +413,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="51825000" />
-    </task>
-    <task id="LOCAL-00018" summary="combination_sum">
-      <created>1547539138745</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1547539138745</updated>
+      <workItem from="1548762553541" duration="53888000" />
     </task>
     <task id="LOCAL-00019" summary="permutations">
       <created>1547541949940</created>
@@ -755,11 +751,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549091487965</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="move_zeros">
+      <created>1549098509569</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1549098509570</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315846000" />
+    <option name="totallyTimeSpent" value="317909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -801,7 +804,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="best_time_to_buy_and_sell_stock" />
     <MESSAGE value="binary_tree_maximum_path_sum" />
     <MESSAGE value="longest_consecutive_sequence" />
     <MESSAGE value="single_number" />
@@ -826,7 +828,8 @@
     <MESSAGE value="product_of_array_except_self" />
     <MESSAGE value="sliding_window_maximum" />
     <MESSAGE value="search_a_2d_matrix_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="search_a_2d_matrix_2" />
+    <MESSAGE value="move_zeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="move_zeros" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -882,16 +885,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/permutations/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/largest_rectangle_in_histogram/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-660">
@@ -1473,8 +1466,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/move_zeros/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/find_the_duplicate_number/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="49" />
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="43" />
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="12" />
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="30" />
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="36" />
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="31" />
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="27" />
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="30" />
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="30" />
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="30" />
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="9" />
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="20" />
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
