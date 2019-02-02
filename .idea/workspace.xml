@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="find_the_duplicate_number">
-      <change afterPath="$PROJECT_DIR$/src/serialize_and_deserialize_binary_tree/Main.java" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="serialize_and_deserialize_binary_tree">
+      <change afterPath="$PROJECT_DIR$/src/longest_incresing_subsequence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longest_incresing_subsequence/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,25 +29,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/find_the_duplicate_number/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/serialize_and_deserialize_binary_tree/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/longest_incresing_subsequence/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="611">
+              <caret line="44" column="48" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="48" />
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="39" />
+              <caret line="46" column="44" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="44" />
+              <caret line="47" column="28" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="28" />
+              <caret line="48" column="20" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="20" />
+              <caret line="49" column="47" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="47" />
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="38" />
+              <caret line="51" column="36" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="36" />
+              <caret line="52" column="49" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="49" />
+              <caret line="53" column="40" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="40" />
+              <caret line="54" column="20" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="20" />
+              <caret line="55" column="68" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="68" />
+              <caret line="56" column="40" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="40" />
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="13" />
+              <caret line="58" column="9" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="9" />
+              <caret line="59" column="19" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="19" />
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+              <caret line="62" column="81" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="81" />
+              <caret line="63" column="29" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="29" />
+              <caret line="64" column="40" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="40" />
+              <caret line="65" column="37" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="37" />
+              <caret line="66" column="26" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="26" />
+              <caret line="67" column="44" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="44" />
+              <caret line="68" column="30" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="30" />
+              <caret line="69" column="20" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="20" />
+              <caret line="70" column="27" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="27" />
+              <caret line="71" column="13" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="13" />
+              <caret line="72" column="9" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="9" />
+              <caret line="73" column="19" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="19" />
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
               <folding>
-                <element signature="e#252#253#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/minimum_window_substring/Main.java" />
         <option value="$PROJECT_DIR$/src/subsets/Main.java" />
         <option value="$PROJECT_DIR$/src/word_search/Main.java" />
         <option value="$PROJECT_DIR$/src/demo/Main.java" />
@@ -118,6 +136,7 @@
         <option value="$PROJECT_DIR$/src/move_zeros/Main.java" />
         <option value="$PROJECT_DIR$/src/find_the_duplicate_number/Main.java" />
         <option value="$PROJECT_DIR$/src/serialize_and_deserialize_binary_tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/longest_incresing_subsequence/Main.java" />
       </list>
     </option>
   </component>
@@ -223,6 +242,12 @@
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="longest_incresing_subsequence" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -234,7 +259,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549105566028" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549116093749" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -259,23 +284,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kth_largest_element_in_an_array.Main" />
-      <module name="QpD" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kth_largest_element_in_an_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -337,6 +348,20 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longest_increasing_subsequence.Main" />
+      <module name="QpD" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="longest_increasing_subsequence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unique_binary_search_trees.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -369,19 +394,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -409,14 +434,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="55863000" />
-    </task>
-    <task id="LOCAL-00020" summary="rotate_image">
-      <created>1547551208126</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1547551208126</updated>
+      <workItem from="1548762553541" duration="61142000" />
     </task>
     <task id="LOCAL-00021" summary="group_anagrams">
       <created>1547613290387</created>
@@ -754,17 +772,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549103149381</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="serialize_and_deserialize_binary_tree">
+      <created>1549105588591</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1549105588591</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="319884000" />
+    <option name="totallyTimeSpent" value="325163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.30048466" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.30048466" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -800,7 +825,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="longest_consecutive_sequence" />
     <MESSAGE value="single_number" />
     <MESSAGE value="word_break" />
     <MESSAGE value="linked_list_cycle" />
@@ -825,7 +849,8 @@
     <MESSAGE value="search_a_2d_matrix_2" />
     <MESSAGE value="move_zeros" />
     <MESSAGE value="find_the_duplicate_number" />
-    <option name="LAST_COMMIT_MESSAGE" value="find_the_duplicate_number" />
+    <MESSAGE value="serialize_and_deserialize_binary_tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="serialize_and_deserialize_binary_tree" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -875,7 +900,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/serialize_and_deserialize_binary_tree/Main.java</url>
-          <line>51</line>
+          <line>41</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
@@ -887,49 +912,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/maximal_rectangle/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="103" column="58" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="58" />
-          <caret line="104" column="74" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="74" />
-          <caret line="105" column="21" selection-start-line="105" selection-start-column="4" selection-end-line="105" selection-end-column="21" />
-          <caret line="106" column="52" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="52" />
-          <caret line="107" column="73" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="73" />
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="30" />
-          <caret line="110" column="20" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="20" />
-          <caret line="111" column="37" selection-start-line="111" selection-start-column="4" selection-end-line="111" selection-end-column="37" />
-          <caret line="112" column="28" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="28" />
-          <caret line="113" column="41" selection-start-line="113" selection-start-column="4" selection-end-line="113" selection-end-column="41" />
-          <caret line="114" column="42" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="42" />
-          <caret line="115" column="32" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="32" />
-          <caret line="116" column="57" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="57" />
-          <caret line="117" column="24" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="24" />
-          <caret line="118" column="34" selection-start-line="118" selection-start-column="4" selection-end-line="118" selection-end-column="34" />
-          <caret line="119" column="32" selection-start-line="119" selection-start-column="4" selection-end-line="119" selection-end-column="32" />
-          <caret line="120" column="36" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="36" />
-          <caret line="121" column="17" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="17" />
-          <caret line="122" column="13" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="13" />
-          <caret line="124" column="29" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="29" />
-          <caret line="125" column="44" selection-start-line="125" selection-start-column="4" selection-end-line="125" selection-end-column="44" />
-          <caret line="126" column="42" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="42" />
-          <caret line="127" column="60" selection-start-line="127" selection-start-column="4" selection-end-line="127" selection-end-column="60" />
-          <caret line="128" column="24" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="24" />
-          <caret line="129" column="33" selection-start-line="129" selection-start-column="4" selection-end-line="129" selection-end-column="33" />
-          <caret line="130" column="33" selection-start-line="130" selection-start-column="4" selection-end-line="130" selection-end-column="33" />
-          <caret line="131" column="17" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="17" />
-          <caret line="132" column="13" selection-start-line="132" selection-start-column="4" selection-end-line="132" selection-end-column="13" />
-          <caret line="134" column="41" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="41" />
-          <caret line="135" column="70" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="70" />
-          <caret line="136" column="13" selection-start-line="136" selection-start-column="4" selection-end-line="136" selection-end-column="13" />
-          <caret line="137" column="9" selection-start-line="137" selection-start-column="4" selection-end-line="137" selection-end-column="9" />
-          <caret line="139" column="19" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="19" />
-          <caret line="140" column="5" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="5" />
-          <folding>
-            <element signature="docComment;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1471,13 +1453,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/serialize_and_deserialize_binary_tree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="-10">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
             <element signature="e#372#373#0" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/longest_incresing_subsequence/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="44" column="48" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="48" />
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="39" />
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="44" />
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="28" />
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="20" />
+          <caret line="49" column="47" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="47" />
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="38" />
+          <caret line="51" column="36" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="36" />
+          <caret line="52" column="49" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="49" />
+          <caret line="53" column="40" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="40" />
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="20" />
+          <caret line="55" column="68" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="68" />
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="40" />
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="13" />
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="9" />
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="19" />
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+          <caret line="62" column="81" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="81" />
+          <caret line="63" column="29" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="29" />
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="40" />
+          <caret line="65" column="37" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="37" />
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="26" />
+          <caret line="67" column="44" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="44" />
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="30" />
+          <caret line="69" column="20" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="20" />
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="27" />
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="13" />
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="9" />
+          <caret line="73" column="19" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="19" />
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
