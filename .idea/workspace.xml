@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="slide_">
-      <change afterPath="$PROJECT_DIR$/src/sliding_window_maximum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sliding_window_maximum/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="sliding_window_maximum">
+      <change afterPath="$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search_a_2d_matrix_2/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,20 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/product_of_array_except_self/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sliding_window_maximum/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            <state relative-caret-position="500">
+              <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -62,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/minimum_path_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/climbing_stairs/Main.java" />
         <option value="$PROJECT_DIR$/src/edit_distance/Main.java" />
         <option value="$PROJECT_DIR$/src/sort_colors/Main.java" />
@@ -113,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/product_of_array_except_self/Main.java" />
         <option value="$PROJECT_DIR$/src/sliding_window_maximum/Main.java" />
+        <option value="$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java" />
       </list>
     </option>
   </component>
@@ -222,7 +213,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sliding_window_maximum" type="462c0819:PsiDirectoryNode" />
+              <item name="search_a_2d_matrix_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,7 +226,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549084156619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549091474966" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -410,14 +401,7 @@
       <workItem from="1547188742717" duration="6714000" />
       <workItem from="1547199061302" duration="202362000" />
       <workItem from="1548727926505" duration="16533000" />
-      <workItem from="1548762553541" duration="45109000" />
-    </task>
-    <task id="LOCAL-00016" summary="find_first_and_last_position">
-      <created>1547469114412</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1547469114412</updated>
+      <workItem from="1548762553541" duration="48995000" />
     </task>
     <task id="LOCAL-00017" summary="combination_sum">
       <created>1547526335826</created>
@@ -755,11 +739,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549010101288</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="sliding_window_maximum">
+      <created>1549084305458</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1549084305459</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309130000" />
+    <option name="totallyTimeSpent" value="313016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -801,7 +792,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="construct_binary_tree_from_preorder_and_inorder_traversal" />
     <MESSAGE value="flatten_binary_tree_to_linked_list" />
     <MESSAGE value="best_time_to_buy_and_sell_stock" />
     <MESSAGE value="binary_tree_maximum_path_sum" />
@@ -826,7 +816,8 @@
     <MESSAGE value="palindrome_linked_list" />
     <MESSAGE value="lowest_common_ancestor_of_a_binary_tree" />
     <MESSAGE value="product_of_array_except_self" />
-    <option name="LAST_COMMIT_MESSAGE" value="product_of_array_except_self" />
+    <MESSAGE value="sliding_window_maximum" />
+    <option name="LAST_COMMIT_MESSAGE" value="sliding_window_maximum" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -882,13 +873,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/word_search/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1018">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1475,6 +1459,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
           <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="78" column="5" lean-forward="true" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
         </state>
       </provider>
     </entry>
