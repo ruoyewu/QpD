@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="best_time_to_buy_and_sell_stock_with_cooldown">
-      <change afterPath="$PROJECT_DIR$/src/burst_balloons/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/burst_balloons/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="burst_balloons">
+      <change afterPath="$PROJECT_DIR$/src/coin_change/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coin_change/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QpD.graffle" beforeDir="false" afterPath="$PROJECT_DIR$/QpD.graffle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/burst_balloons/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/burst_balloons/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,16 +29,16 @@
     <expand />
     <select />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="QpD" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/burst_balloons/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/coin_change/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="378">
+              <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -56,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/largest_rectangle_in_histogram/Main.java" />
         <option value="$PROJECT_DIR$/src/maximal_rectangle/Main.java" />
         <option value="$PROJECT_DIR$/src/binary_tree_inorder_traversal/Main.java" />
         <option value="$PROJECT_DIR$/src/unique_binary_serach_trees/Main.java" />
@@ -107,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/remove_invalid_parentheses/Main.java" />
         <option value="$PROJECT_DIR$/src/best_time_to_buy_and_sell_stock_with_cooldown/Main.java" />
         <option value="$PROJECT_DIR$/src/burst_balloons/Main.java" />
+        <option value="$PROJECT_DIR$/src/coin_change/Main.java" />
       </list>
     </option>
   </component>
@@ -216,7 +218,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="burst_balloons" type="462c0819:PsiDirectoryNode" />
+              <item name="coin_change" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,7 +231,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550718829328" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550825311067" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -254,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -303,13 +305,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lowest_common_ancestor_of_a_binary_tree.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coin_change.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lowest_common_ancestor_of_a_binary_tree.*" />
+          <option name="PATTERN" value="coin_change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,19 +380,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -420,14 +422,7 @@
       <workItem from="1548727926505" duration="16533000" />
       <workItem from="1548762553541" duration="83943000" />
       <workItem from="1550057754990" duration="4000" />
-      <workItem from="1550557838145" duration="17973000" />
-    </task>
-    <task id="LOCAL-00024" summary="merge_intervals">
-      <created>1547702345295</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1547702345295</updated>
+      <workItem from="1550557838145" duration="29050000" />
     </task>
     <task id="LOCAL-00025" summary="unique_paths">
       <created>1547709634970</created>
@@ -765,22 +760,29 @@
       <option name="project" value="LOCAL" />
       <updated>1550623171548</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="burst_balloons">
+      <created>1550720237988</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1550720237989</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365941000" />
+    <option name="totallyTimeSpent" value="377018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.3101777" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.3101777" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Favorites" order="5" sideWeight="0.50364965" side_tool="true" visible="true" weight="0.3101777" />
       <window_info id="Structure" order="6" sideWeight="0.5029412" weight="0.2819063" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -811,7 +813,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sort_list" />
     <MESSAGE value="maximum_product_subarray" />
     <MESSAGE value="min_stack" />
     <MESSAGE value="intersection_of_two_linked_lists" />
@@ -836,7 +837,8 @@
     <MESSAGE value="longest_increasing_subsequence" />
     <MESSAGE value="remove_invalid_parentheses" />
     <MESSAGE value="best_time_to_buy_and_sell_stock_with_cooldown" />
-    <option name="LAST_COMMIT_MESSAGE" value="best_time_to_buy_and_sell_stock_with_cooldown" />
+    <MESSAGE value="burst_balloons" />
+    <option name="LAST_COMMIT_MESSAGE" value="burst_balloons" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -910,19 +912,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/flatten_binary_tree_to_linked_list/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -1408,11 +1397,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/burst_balloons/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="1989">
           <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coin_change/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="95" column="16" lean-forward="true" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
         </state>
       </provider>
     </entry>

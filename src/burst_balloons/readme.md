@@ -56,7 +56,7 @@ private static int max(int[] nums, int start, int end, int[][] saved) {
 或者也可以将这个解法变成一个非递归的：
 
 ```java
-public static int maxCoins3(int[] nums) {
+public static int maxCoins(int[] nums) {
     int[] newNums = new int[nums.length+2];
     System.arraycopy(nums, 0, newNums, 1, nums.length);
     newNums[0] = newNums[nums.length+1] = 1;
@@ -95,3 +95,4 @@ for (int left = len-1; left >= 0; left--) {
 ```
 
 它分别从`[left,...,n-1]`和`[left,...,right]`递增。
+
