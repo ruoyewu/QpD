@@ -1,5 +1,7 @@
 package serialize_and_deserialize_binary_tree;
 
+import default_struct.TreeNode;
+
 import java.util.LinkedList;
 
 /**
@@ -67,15 +69,5 @@ public class Main {
             i++;
         }
         return root;
-    }
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 }

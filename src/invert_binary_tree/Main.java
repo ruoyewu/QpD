@@ -1,5 +1,7 @@
 package invert_binary_tree;
 
+import default_struct.TreeNode;
+
 import java.util.Stack;
 
 /**
@@ -34,15 +36,5 @@ public class Main {
             if (right != null) stack.push(right);
         }
         return root;
-    }
-
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
     }
 }
