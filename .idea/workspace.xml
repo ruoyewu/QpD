@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="find_all_numbers_disappeared_in_an_array">
-      <change afterPath="$PROJECT_DIR$/src/hamming_distance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hamming_distance/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="hamming_distance">
+      <change afterPath="$PROJECT_DIR$/src/target_sum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/target_sum/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,47 +32,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="105" column="24" lean-forward="true" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#findAnagrams#0;class#Main#0" />
-                <element signature="method#findAnagrams2#0;class#Main#0" />
-                <element signature="method#getNext#0;class#Main#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/find_all_numbers_disappeared_in_an_array/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hamming_distance/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/target_sum/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-330">
-              <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
+            <state relative-caret-position="398">
+              <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/binary_tree_maximum_path_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/longest_consecutive_sequence/Main.java" />
         <option value="$PROJECT_DIR$/src/single_number/Main.java" />
         <option value="$PROJECT_DIR$/src/word_break/Main.java" />
@@ -143,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java" />
         <option value="$PROJECT_DIR$/src/find_all_numbers_disappeared_in_an_array/Main.java" />
         <option value="$PROJECT_DIR$/src/hamming_distance/Main.java" />
+        <option value="$PROJECT_DIR$/src/target_sum/Main.java" />
       </list>
     </option>
   </component>
@@ -235,8 +203,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +223,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hamming_distance" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="target_sum" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +239,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551143749934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551256989013" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -290,20 +264,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queue_reconstruction_by_height.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="target_sum.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queue_reconstruction_by_height.*" />
+          <option name="PATTERN" value="target_sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,19 +388,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -457,14 +431,8 @@
       <workItem from="1548762553541" duration="83943000" />
       <workItem from="1550057754990" duration="4000" />
       <workItem from="1550557838145" duration="54640000" />
-      <workItem from="1551019582650" duration="27171000" />
-    </task>
-    <task id="LOCAL-00033" summary="maximal_rectangle">
-      <created>1548420714102</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1548420714102</updated>
+      <workItem from="1551019582650" duration="27754000" />
+      <workItem from="1551183194029" duration="8292000" />
     </task>
     <task id="LOCAL-00034" summary="binary_tree_inorder_traversal">
       <created>1548424829022</created>
@@ -802,17 +770,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551101581140</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="hamming_distance">
+      <created>1551143797345</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1551143797345</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="429779000" />
+    <option name="totallyTimeSpent" value="438654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.31502423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.31987077" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -848,7 +823,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="course_schedule" />
     <MESSAGE value="implement_trie" />
     <MESSAGE value="kth_largest_element_in_an_array" />
     <MESSAGE value="maximal_square" />
@@ -873,7 +847,8 @@
     <MESSAGE value="queue_reconstruction_by_height" />
     <MESSAGE value="path_sum_3" />
     <MESSAGE value="find_all_numbers_disappeared_in_an_array" />
-    <option name="LAST_COMMIT_MESSAGE" value="find_all_numbers_disappeared_in_an_array" />
+    <MESSAGE value="hamming_distance" />
+    <option name="LAST_COMMIT_MESSAGE" value="hamming_distance" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -968,39 +943,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/intersection_of_two_linked_lists/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="54" column="81" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="81" />
-          <caret line="55" column="56" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="56" />
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="30" />
-          <caret line="57" column="35" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="35" />
-          <caret line="58" column="29" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="29" />
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="9" />
-          <caret line="60" column="26" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="26" />
-          <caret line="62" column="45" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="45" />
-          <caret line="63" column="25" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="25" />
-          <caret line="64" column="22" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="22" />
-          <caret line="12" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
-          <caret line="67" column="56" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="56" />
-          <caret line="68" column="46" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="46" />
-          <caret line="69" column="24" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="24" />
-          <caret line="70" column="57" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="57" />
-          <caret line="71" column="30" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="30" />
-          <caret line="72" column="50" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="50" />
-          <caret line="73" column="28" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="28" />
-          <caret line="74" column="29" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="29" />
-          <caret line="75" column="34" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="34" />
-          <caret line="76" column="9" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="9" />
-          <caret line="78" column="30" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="30" />
-          <caret line="79" column="29" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="29" />
-          <caret line="80" column="29" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="29" />
-          <caret line="81" column="9" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="9" />
-          <caret line="82" column="20" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="20" />
-          <caret line="54" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linked_list_cycle_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
@@ -1424,8 +1366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="105" column="24" lean-forward="true" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+        <state relative-caret-position="748">
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#findAnagrams#0;class#Main#0" />
@@ -1437,8 +1379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/find_all_numbers_disappeared_in_an_array/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="663">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1447,7 +1389,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-330">
+        <state relative-caret-position="1802">
           <caret line="136" column="25" selection-start-line="136" selection-start-column="25" selection-end-line="136" selection-end-column="25" />
         </state>
       </provider>
@@ -1456,6 +1398,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/target_sum/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="79" column="30" lean-forward="true" selection-start-line="79" selection-start-column="30" selection-end-line="79" selection-end-column="30" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
