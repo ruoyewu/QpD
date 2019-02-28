@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="target_sum">
-      <change afterPath="$PROJECT_DIR$/src/convert_bst_to_greater_tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/convert_bst_to_greater_tree/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="convert_bst_to_greater_tree">
+      <change afterPath="$PROJECT_DIR$/src/diameter_of_binary_tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diameter_of_binary_tree/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,16 +32,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/convert_bst_to_greater_tree/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="81" column="20" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="81" selection-end-column="20" />
+            <state relative-caret-position="415">
+              <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#272#273#0" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/diameter_of_binary_tree/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -61,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/single_number/Main.java" />
         <option value="$PROJECT_DIR$/src/word_break/Main.java" />
         <option value="$PROJECT_DIR$/src/linked_list_cycle/Main.java" />
         <option value="$PROJECT_DIR$/src/linked_list_cycle_2/Main.java" />
@@ -112,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/hamming_distance/Main.java" />
         <option value="$PROJECT_DIR$/src/target_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/convert_bst_to_greater_tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/diameter_of_binary_tree/Main.java" />
       </list>
     </option>
   </component>
@@ -221,13 +230,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="convert_bst_to_greater_tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QpD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="invert_binary_tree" type="462c0819:PsiDirectoryNode" />
+              <item name="diameter_of_binary_tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,7 +243,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551313233862" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551314424546" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -434,14 +437,7 @@
       <workItem from="1550557838145" duration="54640000" />
       <workItem from="1551019582650" duration="27754000" />
       <workItem from="1551183194029" duration="9758000" />
-      <workItem from="1551266003136" duration="2354000" />
-    </task>
-    <task id="LOCAL-00035" summary="unique_binary_search_tree">
-      <created>1548476033761</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1548476033761</updated>
+      <workItem from="1551266003136" duration="3478000" />
     </task>
     <task id="LOCAL-00036" summary="validate_binary_search_tree">
       <created>1548481664447</created>
@@ -779,17 +775,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551257004835</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="convert_bst_to_greater_tree">
+      <created>1551313296733</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1551313296740</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="442474000" />
+    <option name="totallyTimeSpent" value="443598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.32471728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.32471728" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -825,7 +828,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="kth_largest_element_in_an_array" />
     <MESSAGE value="maximal_square" />
     <MESSAGE value="invert_binary_tree" />
     <MESSAGE value="palindrome_linked_list" />
@@ -850,7 +852,8 @@
     <MESSAGE value="find_all_numbers_disappeared_in_an_array" />
     <MESSAGE value="hamming_distance" />
     <MESSAGE value="target_sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="target_sum" />
+    <MESSAGE value="convert_bst_to_greater_tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="convert_bst_to_greater_tree" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -945,20 +948,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/majority_element/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#1832#1833#0" expanded="true" />
-            <element signature="e#1876#1877#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/house_robber/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -1409,13 +1398,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/convert_bst_to_greater_tree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="81" column="20" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="81" selection-end-column="20" />
+        <state relative-caret-position="415">
+          <caret line="77" column="29" selection-start-line="77" selection-start-column="29" selection-end-line="77" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#272#273#0" expanded="true" />
             <element signature="e#327#328#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/diameter_of_binary_tree/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
