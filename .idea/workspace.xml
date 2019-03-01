@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="diameter_of_binary_tree">
-      <change afterPath="$PROJECT_DIR$/src/subarray_sum_equals_k/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subarray_sum_equals_k/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subtree_of_another_tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/subtree_of_another_tree/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="subtree_of_another_tree">
+      <change afterPath="$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,22 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/subarray_sum_equals_k/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/subtree_of_another_tree/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            <state relative-caret-position="856">
+              <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/linked_list_cycle_2/Main.java" />
         <option value="$PROJECT_DIR$/src/lru_cache/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/sort_list/Main.java" />
         <option value="$PROJECT_DIR$/src/maximum_product_subarray/Main.java" />
@@ -124,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/diameter_of_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/subarray_sum_equals_k/Main.java" />
         <option value="$PROJECT_DIR$/src/subtree_of_another_tree/Main.java" />
+        <option value="$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/Main.java" />
       </list>
     </option>
   </component>
@@ -228,12 +214,6 @@
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="QpD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="subarray_sum_equals_k" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -246,7 +226,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wuruoye/Documents/java/QpD/src/permutations/Main.java&#10;Stack&#9;PSI&#9;JAVA://java.util.Stack&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551353802310" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551409478713" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -271,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -334,13 +314,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hamming_distance.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shortest_unsorted_continuous_subarray.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hamming_distance.*" />
+          <option name="PATTERN" value="shortest_unsorted_continuous_subarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -395,19 +375,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -441,14 +421,7 @@
       <workItem from="1551019582650" duration="27754000" />
       <workItem from="1551183194029" duration="9758000" />
       <workItem from="1551266003136" duration="7268000" />
-      <workItem from="1551328351040" duration="4861000" />
-    </task>
-    <task id="LOCAL-00037" summary="symmetric_tree">
-      <created>1548485623417</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1548485623417</updated>
+      <workItem from="1551328351040" duration="13733000" />
     </task>
     <task id="LOCAL-00038" summary="binary_tree_level_order_traversal">
       <created>1548488143437</created>
@@ -786,17 +759,24 @@
       <option name="project" value="LOCAL" />
       <updated>1551314553418</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="subtree_of_another_tree">
+      <created>1551354863115</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1551354863116</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="452249000" />
+    <option name="totallyTimeSpent" value="461121000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.32956383" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.32956383" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -832,7 +812,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="invert_binary_tree" />
     <MESSAGE value="palindrome_linked_list" />
     <MESSAGE value="lowest_common_ancestor_of_a_binary_tree" />
     <MESSAGE value="product_of_array_except_self" />
@@ -857,7 +836,8 @@
     <MESSAGE value="target_sum" />
     <MESSAGE value="convert_bst_to_greater_tree" />
     <MESSAGE value="diameter_of_binary_tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="diameter_of_binary_tree" />
+    <MESSAGE value="subtree_of_another_tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="subtree_of_another_tree" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -941,6 +921,12 @@
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/Main.java</url>
+          <line>96</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -958,13 +944,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reverse_linked_list/M.java" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1421,6 +1400,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
           <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="856">
+          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
