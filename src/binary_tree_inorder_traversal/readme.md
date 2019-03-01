@@ -72,7 +72,7 @@ public static List<Integer> inorderTraversal(TreeNode root) {
 
 二叉树可以用作二叉排序树，对一个二叉排序树而言，其中序遍历的序列就是一个有序序列。当一棵树的所有结点都只有右孩子的时候，就会只有一条单一路径，这条路径就是中序遍历的结果。如果将一个排序二叉树变形，并且不改变其作为排序二叉树的规则，如下：
 
-![](./binary_tree_inorder_traversal_1.jpg)
+![](./binary_tree_inorder_traversal.jpg)
 
 一步步消除所有的左子树，便可以最终使其变成只有右孩子的树。同样的，对于一个普通的二叉树，其中序遍历也是按照这样一个规则的序列，我们也可以通过消除所有的左子树的方式求解。如下：
 
