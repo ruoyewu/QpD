@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="palindromic_substrings">
-      <change afterPath="$PROJECT_DIR$/src/jewels_and_stones/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jewels_and_stones/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="jewels_and_stones">
+      <change afterPath="$PROJECT_DIR$/src/roman_to_integer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/roman_to_integer/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/jewels_and_stones/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/roman_to_integer/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -65,7 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/majority_element/Main.java" />
         <option value="$PROJECT_DIR$/src/house_robber/Main.java" />
         <option value="$PROJECT_DIR$/src/number_of_islands/Main.java" />
         <option value="$PROJECT_DIR$/src/reverse_linked_list/M.java" />
@@ -116,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/task_scheduler/Main.java" />
         <option value="$PROJECT_DIR$/src/palindromic_substrings/Main.java" />
         <option value="$PROJECT_DIR$/src/jewels_and_stones/Main.java" />
+        <option value="$PROJECT_DIR$/src/roman_to_integer/Main.java" />
       </list>
     </option>
   </component>
@@ -415,14 +424,7 @@
       <workItem from="1551266003136" duration="7268000" />
       <workItem from="1551328351040" duration="16630000" />
       <workItem from="1551430349168" duration="14043000" />
-      <workItem from="1551503079161" duration="2490000" />
-    </task>
-    <task id="LOCAL-00043" summary="binary_tree_maximum_path_sum">
-      <created>1548568568202</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1548568568202</updated>
+      <workItem from="1551503079161" duration="5312000" />
     </task>
     <task id="LOCAL-00044" summary="longest_consecutive_sequence">
       <created>1548578617055</created>
@@ -760,11 +762,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551527467189</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="jewels_and_stones">
+      <created>1551528638981</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1551528638981</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="480551000" />
+    <option name="totallyTimeSpent" value="483373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -806,7 +815,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="move_zeros" />
     <MESSAGE value="find_the_duplicate_number" />
     <MESSAGE value="serialize_and_deserialize_binary_tree" />
     <MESSAGE value="longest_increasing_subsequence" />
@@ -831,7 +839,8 @@
     <MESSAGE value="merge_two_binary_trees" />
     <MESSAGE value="task_scheduler" />
     <MESSAGE value="palindromic_substrings" />
-    <option name="LAST_COMMIT_MESSAGE" value="palindromic_substrings" />
+    <MESSAGE value="jewels_and_stones" />
+    <option name="LAST_COMMIT_MESSAGE" value="jewels_and_stones" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -944,26 +953,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/course_schedule/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="93" column="9" lean-forward="true" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
-          <folding>
-            <element signature="docComment;class#Main#0" />
-            <element signature="method#main#0;class#Main#0" />
-            <element signature="method#canFinish#0;class#Main#0" />
-            <element signature="e#359#389#1" />
-            <element signature="e#477#505#1" />
-            <element signature="e#629#710#1" />
-            <element signature="e#723#765#1" />
-            <element signature="e#869#1126#1" />
-            <element signature="e#920#1116#1" />
-            <element signature="e#989#1102#1" />
-            <element signature="e#1036#1091#1" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/implement_trie/Trie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1427,8 +1416,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jewels_and_stones/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roman_to_integer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
         </state>
       </provider>
     </entry>
