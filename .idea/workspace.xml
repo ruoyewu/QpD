@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="remove_duplicates_from_sorted_array">
-      <change afterPath="$PROJECT_DIR$/src/all_possible_full_binary_trees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/all_possible_full_binary_trees/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divide_two_integers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divide_two_integers/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groups_of_special_equivalent_strings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groups_of_special_equivalent_strings/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implement_str/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/implement_str/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximum_frequency_stack/FreqStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximum_frequency_stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximum_frequency_stack/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome_number/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome_number/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/surface_area_of_3d_shapres/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/surface_area_of_3d_shapres/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integer_to_roman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/integer_to_roman/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -46,10 +33,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/palindrome_number/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/integer_to_roman/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+            <state relative-caret-position="583">
+              <caret line="105" column="44" lean-forward="true" selection-start-line="105" selection-start-column="44" selection-end-line="105" selection-end-column="44" />
+              <folding>
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/roman_to_integer/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -69,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/maximal_square/Main.java" />
         <option value="$PROJECT_DIR$/src/palindrome_linked_list/Main.java" />
         <option value="$PROJECT_DIR$/src/lowest_common_ancestor_of_a_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/product_of_array_except_self/Main.java" />
@@ -120,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/maximum_frequency_stack/Main.java" />
         <option value="$PROJECT_DIR$/src/maximum_frequency_stack/FreqStack.java" />
         <option value="$PROJECT_DIR$/src/palindrome_number/Main.java" />
+        <option value="$PROJECT_DIR$/src/integer_to_roman/Main.java" />
       </list>
     </option>
   </component>
@@ -228,14 +228,14 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="palindrome_number" type="462c0819:PsiDirectoryNode" />
+              <item name="integer_to_roman" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +243,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552266241957" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552462478684" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -268,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -331,13 +331,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="palindromic_substrings.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="integer_to_roman.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="palindromic_substrings.*" />
+          <option name="PATTERN" value="integer_to_roman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -378,19 +378,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -433,6 +433,7 @@
       <workItem from="1552044839481" duration="1802000" />
       <workItem from="1552137480995" duration="6257000" />
       <workItem from="1552264283390" duration="1852000" />
+      <workItem from="1552458489898" duration="3338000" />
     </task>
     <task id="LOCAL-00047" summary="linked_list_cycle">
       <created>1548597857082</created>
@@ -781,13 +782,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="498688000" />
+    <option name="totallyTimeSpent" value="502026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.3739903" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.3796446" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -961,13 +962,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/find_the_duplicate_number/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/longest_increasing_subsequence/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
@@ -1308,13 +1302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/roman_to_integer/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/longest_common_prefix/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
@@ -1414,7 +1401,25 @@
     <entry file="file://$PROJECT_DIR$/src/palindrome_number/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
-          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/roman_to_integer/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/integer_to_roman/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="105" column="44" lean-forward="true" selection-start-line="105" selection-start-column="44" selection-end-line="105" selection-end-column="44" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
