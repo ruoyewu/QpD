@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="four_sum">
-      <change afterPath="$PROJECT_DIR$/src/default_struct/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swap_nodes_in_pairs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/swap_nodes_in_pairs/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="swap_nodes_in_pairs">
+      <change afterPath="$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverse_nodes_in_k_group/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,23 +33,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/swap_nodes_in_pairs/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/default_struct/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="568">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/search_a_2d_matrix_2/Main.java" />
         <option value="$PROJECT_DIR$/src/move_zeros/Main.java" />
         <option value="$PROJECT_DIR$/src/find_the_duplicate_number/Main.java" />
         <option value="$PROJECT_DIR$/src/longest_incresing_subsequence/Main.java" />
@@ -121,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/four_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/default_struct/ListNode.java" />
         <option value="$PROJECT_DIR$/src/swap_nodes_in_pairs/Main.java" />
+        <option value="$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java" />
       </list>
     </option>
   </component>
@@ -225,6 +211,12 @@
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse_nodes_in_k_group" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,7 +230,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552659563701" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552663999965" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -263,20 +255,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="all_possible_full_binary_trees.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse_nodes_in_k_group.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="all_possible_full_binary_trees.*" />
+          <option name="PATTERN" value="reverse_nodes_in_k_group.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,19 +355,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (6)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -422,14 +414,7 @@
       <workItem from="1552484099206" duration="3167000" />
       <workItem from="1552548417847" duration="3991000" />
       <workItem from="1552651908233" duration="30000" />
-      <workItem from="1552652053684" duration="4829000" />
-    </task>
-    <task id="LOCAL-00050" summary="min_stack">
-      <created>1548729135838</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1548729135843</updated>
+      <workItem from="1552652053684" duration="8011000" />
     </task>
     <task id="LOCAL-00051" summary="intersection_of_two_linked_lists">
       <created>1548731903087</created>
@@ -767,11 +752,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552570760855</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="swap_nodes_in_pairs">
+      <created>1552659589429</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1552659589432</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="514154000" />
+    <option name="totallyTimeSpent" value="517336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -784,8 +776,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.404685" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.404685" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -821,7 +814,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="coin_change" />
     <MESSAGE value="house_robber_3" />
     <MESSAGE value="counting_bits" />
     <MESSAGE value="top_k_frequent_elements" />
@@ -846,7 +838,8 @@
     <MESSAGE value="integer_to_roman" />
     <MESSAGE value="three_sum_closest" />
     <MESSAGE value="four_sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="four_sum" />
+    <MESSAGE value="swap_nodes_in_pairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="swap_nodes_in_pairs" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -954,6 +947,12 @@
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -971,17 +970,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="624" column="19" selection-start-line="624" selection-start-column="19" selection-end-line="624" selection-end-column="19" />
-          <folding>
-            <element signature="e#6326#6327#0" expanded="true" />
-            <element signature="e#6394#6395#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1433,6 +1421,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
         </state>
       </provider>
     </entry>
