@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="swap_nodes_in_pairs">
-      <change afterPath="$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_nodes_in_k_group/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="reverse_nodes_in_k_group">
+      <change afterPath="$PROJECT_DIR$/src/search_insert_position/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search_insert_position/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/substring_with_concatenation_of_all_words/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/substring_with_concatenation_of_all_words/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,11 +34,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/substring_with_concatenation_of_all_words/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="1275">
+              <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/search_insert_position/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#findAnagrams#0;class#Main#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,8 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/move_zeros/Main.java" />
-        <option value="$PROJECT_DIR$/src/find_the_duplicate_number/Main.java" />
         <option value="$PROJECT_DIR$/src/longest_incresing_subsequence/Main.java" />
         <option value="$PROJECT_DIR$/src/longest_increasing_subsequence/Main.java" />
         <option value="$PROJECT_DIR$/src/remove_invalid_parentheses/Main.java" />
@@ -107,6 +129,8 @@
         <option value="$PROJECT_DIR$/src/default_struct/ListNode.java" />
         <option value="$PROJECT_DIR$/src/swap_nodes_in_pairs/Main.java" />
         <option value="$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java" />
+        <option value="$PROJECT_DIR$/src/substring_with_concatenation_of_all_words/Main.java" />
+        <option value="$PROJECT_DIR$/src/search_insert_position/Main.java" />
       </list>
     </option>
   </component>
@@ -199,6 +223,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,14 +241,18 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reverse_nodes_in_k_group" type="462c0819:PsiDirectoryNode" />
+              <item name="search_insert_position" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="substring_with_concatenation_of_all_words" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +260,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552663999965" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552700468896" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -255,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -276,13 +306,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maximum_frequency_stack.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="substring_with_concatenation_of_all_words.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="maximum_frequency_stack.*" />
+          <option name="PATTERN" value="substring_with_concatenation_of_all_words.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (6)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -414,14 +444,10 @@
       <workItem from="1552484099206" duration="3167000" />
       <workItem from="1552548417847" duration="3991000" />
       <workItem from="1552651908233" duration="30000" />
-      <workItem from="1552652053684" duration="8011000" />
-    </task>
-    <task id="LOCAL-00051" summary="intersection_of_two_linked_lists">
-      <created>1548731903087</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1548731903087</updated>
+      <workItem from="1552652053684" duration="8651000" />
+      <workItem from="1552695361713" duration="39000" />
+      <workItem from="1552697407236" duration="3147000" />
+      <workItem from="1552781566623" duration="1493000" />
     </task>
     <task id="LOCAL-00052" summary="linked_list_cycle_2">
       <created>1548735158504</created>
@@ -759,11 +785,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552659589432</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="reverse_nodes_in_k_group">
+      <created>1552664232921</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1552664232922</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="517336000" />
+    <option name="totallyTimeSpent" value="522655000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,7 +811,7 @@
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.404685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.34168014" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -814,7 +847,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="house_robber_3" />
     <MESSAGE value="counting_bits" />
     <MESSAGE value="top_k_frequent_elements" />
     <MESSAGE value="decode_string" />
@@ -839,7 +871,8 @@
     <MESSAGE value="three_sum_closest" />
     <MESSAGE value="four_sum" />
     <MESSAGE value="swap_nodes_in_pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="swap_nodes_in_pairs" />
+    <MESSAGE value="reverse_nodes_in_k_group" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse_nodes_in_k_group" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -947,12 +980,6 @@
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -970,23 +997,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="777" column="26" selection-start-line="777" selection-start-column="26" selection-end-line="777" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/burst_balloons/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/house_robber_3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1086,19 +1096,6 @@
           <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#findAnagrams#0;class#Main#0" />
-            <element signature="method#findAnagrams2#0;class#Main#0" />
-            <element signature="method#getNext#0;class#Main#0" />
           </folding>
         </state>
       </provider>
@@ -1426,8 +1423,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reverse_nodes_in_k_group/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        <state relative-caret-position="-537">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/substring_with_concatenation_of_all_words/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#findAnagrams#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/search_insert_position/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
