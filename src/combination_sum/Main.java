@@ -11,7 +11,9 @@ import java.util.List;
  */
 public class Main {
     public static void main(String[] args) {
-
+        int[] combination = new int[]{1,2,2,2};
+        int target = 5;
+        System.out.println(combinationSum(combination, target));
     }
 
 
@@ -31,7 +33,7 @@ public class Main {
             if (sum + candidates[i] < target) {
                 saved.add(candidates[i]);
                 sum += candidates[i];
-                find(saved, sum, i, target, candidates);
+                find(saved, sum, i+1, target, candidates);
                 sum -= candidates[i];
                 saved.remove(saved.size()-1);
             } else if (sum + candidates[i] == target) {
