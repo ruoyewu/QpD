@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="combination_sum_2">
-      <change afterPath="$PROJECT_DIR$/src/first_missing_positive/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/first_missing_positive/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="first_missing_positive">
+      <change afterPath="$PROJECT_DIR$/src/jump_game_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jump_game_2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildcard_matching/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wildcard_matching/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,10 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/first_missing_positive/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/jump_game_2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="500">
+              <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -56,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/house_robber_2/Main.java" />
-        <option value="$PROJECT_DIR$/src/house_robber_3/Main.java" />
         <option value="$PROJECT_DIR$/src/counting_bits/Main.java" />
         <option value="$PROJECT_DIR$/src/top_k_frequent_elements/Main.java" />
         <option value="$PROJECT_DIR$/src/decode_string/Main.java" />
@@ -107,6 +107,8 @@
         <option value="$PROJECT_DIR$/src/combination_sum_2/Main.java" />
         <option value="$PROJECT_DIR$/src/combination_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/first_missing_positive/Main.java" />
+        <option value="$PROJECT_DIR$/src/wildcard_matching/Main.java" />
+        <option value="$PROJECT_DIR$/src/jump_game_2/Main.java" />
       </list>
     </option>
   </component>
@@ -145,7 +147,13 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="first_missing_positive" type="462c0819:PsiDirectoryNode" />
+              <item name="jump_game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QpD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jump_game_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,7 +168,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553852748611" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554078726084" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -185,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -206,13 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sudoku_solver.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wildcard_matching.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sudoku_solver.*" />
+          <option name="PATTERN" value="wildcard_matching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,13 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="count_and_say.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jump_game_2.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="count_and_say.*" />
+          <option name="PATTERN" value="jump_game_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -357,14 +365,9 @@
       <workItem from="1553602244370" duration="4072000" />
       <workItem from="1553650511773" duration="372000" />
       <workItem from="1553671627868" duration="3901000" />
-      <workItem from="1553851714790" duration="1433000" />
-    </task>
-    <task id="LOCAL-00057" summary="course_schedule">
-      <created>1548829527424</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1548829527424</updated>
+      <workItem from="1553851714790" duration="11792000" />
+      <workItem from="1553944965428" duration="49000" />
+      <workItem from="1554010159931" duration="4005000" />
     </task>
     <task id="LOCAL-00058" summary="implement_trie">
       <created>1548835143900</created>
@@ -702,11 +705,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553604732999</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="first_missing_positive">
+      <created>1553853478660</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1553853478663</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="549360000" />
+    <option name="totallyTimeSpent" value="563773000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -721,7 +731,7 @@
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.4006462" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.41357028" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -757,7 +767,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="find_all_numbers_disappeared_in_an_array" />
     <MESSAGE value="hamming_distance" />
     <MESSAGE value="target_sum" />
     <MESSAGE value="convert_bst_to_greater_tree" />
@@ -782,7 +791,8 @@
     <MESSAGE value="sudoku_solver" />
     <MESSAGE value="count_and_say" />
     <MESSAGE value="combination_sum_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="combination_sum_2" />
+    <MESSAGE value="first_missing_positive" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_missing_positive" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -907,55 +917,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
-          <folding>
-            <element signature="e#5076#5077#0" expanded="true" />
-            <element signature="e#5147#5148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/partition_equal_subset_sum/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/default_struct/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/path_sum_3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/find_all_numbers_disappeared_in_an_array/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hamming_distance/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -1351,8 +1312,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first_missing_positive/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="194">
+          <caret line="32" column="57" lean-forward="true" selection-start-line="32" selection-start-column="57" selection-end-line="32" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wildcard_matching/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3638">
+          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6545">
+          <caret line="427" column="19" selection-start-line="427" selection-start-column="19" selection-end-line="427" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jump_game/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jump_game_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="46" column="4" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
