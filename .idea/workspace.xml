@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="length_of_last_word">
-      <change afterPath="$PROJECT_DIR$/src/spiral_matrix_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/spiral_matrix_2/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/permutation_sequence/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/permutation_sequence/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,12 +31,36 @@
     <favorites_list name="QpD" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/spiral_matrix_2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/permutation_sequence/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="546">
+              <caret line="77" column="56" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="56" />
+              <caret line="78" column="31" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="31" />
+              <caret line="80" column="31" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="31" />
+              <caret line="81" column="28" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="28" />
+              <caret line="82" column="37" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="37" />
+              <caret line="83" column="34" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="34" />
+              <caret line="84" column="9" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="9" />
+              <caret line="86" column="15" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="15" />
+              <caret line="87" column="36" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="36" />
+              <caret line="88" column="20" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="20" />
+              <caret line="89" column="25" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="25" />
+              <caret line="90" column="36" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="36" />
+              <caret line="91" column="49" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="49" />
+              <caret line="92" column="22" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="22" />
+              <caret line="94" column="18" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="18" />
+              <caret line="95" column="9" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="9" />
+              <caret line="98" column="40" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="40" />
+              <caret line="99" column="43" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="43" />
+              <caret line="100" column="45" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="45" />
+              <caret line="101" column="32" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="32" />
+              <caret line="102" column="17" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="17" />
+              <caret line="103" column="13" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="13" />
+              <caret line="104" column="9" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="9" />
+              <caret line="106" column="34" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="34" />
+              <caret line="107" column="5" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -56,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/invert_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/serialize_and_deserialize_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/path_sum_3/Main.java" />
         <option value="$PROJECT_DIR$/src/find_all_anagrams_in_a_string/Main.java" />
@@ -107,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/insert_interval/Main.java" />
         <option value="$PROJECT_DIR$/src/length_of_last_word/Main.java" />
         <option value="$PROJECT_DIR$/src/spiral_matrix_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/permutation_sequence/Main.java" />
       </list>
     </option>
   </component>
@@ -129,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,12 +169,13 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="spiral_matrix_2" type="462c0819:PsiDirectoryNode" />
+              <item name="permutation_sequence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -160,7 +184,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555576447282" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555592116802" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -185,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -220,13 +244,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="permutations_2.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="permutation_sequence.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="permutations_2.*" />
+          <option name="PATTERN" value="permutation_sequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +309,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -362,14 +386,8 @@
       <workItem from="1554010159931" duration="4275000" />
       <workItem from="1554165135178" duration="2256000" />
       <workItem from="1554376492837" duration="3441000" />
-      <workItem from="1555225994321" duration="10933000" />
-    </task>
-    <task id="LOCAL-00063" summary="lowest_common_ancestor_of_a_binary_tree">
-      <created>1549007188254</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1549007188254</updated>
+      <workItem from="1555225994321" duration="16726000" />
+      <workItem from="1556808256106" duration="2008000" />
     </task>
     <task id="LOCAL-00064" summary="product_of_array_except_self">
       <created>1549010101288</created>
@@ -707,11 +725,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555575404006</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="length_of_last_word">
+      <created>1555576485698</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1555576485698</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="580673000" />
+    <option name="totallyTimeSpent" value="588474000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,7 +751,7 @@
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.33117932" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.33602583" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -782,6 +807,20 @@
                 </list>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
           </value>
         </entry>
       </map>
@@ -921,6 +960,12 @@
           <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/permutation_sequence/Main.java</url>
+          <line>98</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -938,30 +983,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/merge_two_binary_trees/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/task_scheduler/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="105" column="1" lean-forward="true" selection-start-line="105" selection-start-column="1" selection-end-line="105" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringLatin1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/palindromic_substrings/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1239,13 +1260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3638">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6545">
@@ -1274,16 +1288,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/n_queens/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/n_queens/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/permutations_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -1345,8 +1350,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/spiral_matrix_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="498">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="461" column="25" selection-start-line="461" selection-start-column="25" selection-end-line="461" selection-end-column="25" />
+          <folding>
+            <element signature="e#17923#17924#0" expanded="true" />
+            <element signature="e#18006#18007#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="529" column="22" lean-forward="true" selection-start-line="529" selection-start-column="22" selection-end-line="529" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="627" column="6" selection-start-line="627" selection-start-column="6" selection-end-line="627" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/permutation_sequence/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="77" column="56" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="56" />
+          <caret line="78" column="31" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="31" />
+          <caret line="80" column="31" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="31" />
+          <caret line="81" column="28" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="28" />
+          <caret line="82" column="37" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="37" />
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="34" />
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="9" />
+          <caret line="86" column="15" selection-start-line="86" selection-start-column="4" selection-end-line="86" selection-end-column="15" />
+          <caret line="87" column="36" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="36" />
+          <caret line="88" column="20" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="20" />
+          <caret line="89" column="25" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="25" />
+          <caret line="90" column="36" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="36" />
+          <caret line="91" column="49" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="49" />
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="22" />
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="4" selection-end-line="94" selection-end-column="18" />
+          <caret line="95" column="9" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="9" />
+          <caret line="98" column="40" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="40" />
+          <caret line="99" column="43" selection-start-line="99" selection-start-column="4" selection-end-line="99" selection-end-column="43" />
+          <caret line="100" column="45" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="45" />
+          <caret line="101" column="32" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="32" />
+          <caret line="102" column="17" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="17" />
+          <caret line="103" column="13" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="13" />
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="9" />
+          <caret line="106" column="34" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="34" />
+          <caret line="107" column="5" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="5" />
         </state>
       </provider>
     </entry>
