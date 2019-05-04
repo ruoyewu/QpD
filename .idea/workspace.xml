@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="set_matrix_zeroes">
-      <change afterPath="$PROJECT_DIR$/src/search_a_2d_matrix/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search_a_2d_matrix/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="combinations">
+      <change afterPath="$PROJECT_DIR$/src/remove_duplicates_from_sorted_array_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remove_duplicates_from_sorted_array_2/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -80,11 +80,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/search_a_2d_matrix/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/combinations/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/remove_duplicates_from_sorted_array_2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="53" />
+              <caret line="50" column="48" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="48" />
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="20" />
+              <caret line="53" column="47" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="47" />
+              <caret line="54" column="41" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="41" />
+              <caret line="55" column="38" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="38" />
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="13" />
+              <caret line="57" column="9" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="9" />
+              <caret line="59" column="19" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="19" />
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="627" column="6" selection-start-line="627" selection-start-column="6" selection-end-line="627" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="533" column="13" selection-start-line="533" selection-start-column="13" selection-end-line="533" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -104,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/convert_bst_to_greater_tree/Main.java" />
-        <option value="$PROJECT_DIR$/src/diameter_of_binary_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/subarray_sum_equals_k/Main.java" />
         <option value="$PROJECT_DIR$/src/subtree_of_another_tree/Main.java" />
         <option value="$PROJECT_DIR$/src/shortest_unsorted_continuous_subarray/Main.java" />
@@ -155,6 +201,8 @@
         <option value="$PROJECT_DIR$/src/plus_one/Main.java" />
         <option value="$PROJECT_DIR$/src/set_matrix_zeroes/Main.java" />
         <option value="$PROJECT_DIR$/src/search_a_2d_matrix/Main.java" />
+        <option value="$PROJECT_DIR$/src/combinations/Main.java" />
+        <option value="$PROJECT_DIR$/src/remove_duplicates_from_sorted_array_2/Main.java" />
       </list>
     </option>
   </component>
@@ -165,7 +213,6 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-268" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -196,7 +243,7 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="search_a_2d_matrix" type="462c0819:PsiDirectoryNode" />
+              <item name="remove_duplicates_from_sorted_array_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +256,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556882433022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556977438154" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -234,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -255,13 +302,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="permutation_sequence.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combinations.Main" />
       <module name="QpD" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="permutation_sequence.*" />
+          <option name="PATTERN" value="combinations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,19 +381,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -416,21 +463,7 @@
       <workItem from="1554376492837" duration="3441000" />
       <workItem from="1555225994321" duration="16726000" />
       <workItem from="1556808256106" duration="13455000" />
-      <workItem from="1556937763410" duration="3648000" />
-    </task>
-    <task id="LOCAL-00069" summary="serialize_and_deserialize_binary_tree">
-      <created>1549105588591</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1549105588591</updated>
-    </task>
-    <task id="LOCAL-00070" summary="longest_increasing_subsequence">
-      <created>1549116163838</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1549116163840</updated>
+      <workItem from="1556937763410" duration="7998000" />
     </task>
     <task id="LOCAL-00071" summary="remove_invalid_parentheses">
       <created>1549273030199</created>
@@ -761,11 +794,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556882455847</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="search_a_2d_matrix">
+      <created>1556953677301</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1556953677302</updated>
+    </task>
+    <task id="LOCAL-00119" summary="combinations">
+      <created>1556961481772</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1556961481772</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="603569000" />
+    <option name="totallyTimeSpent" value="607919000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -856,8 +903,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jewels_and_stones" />
-    <MESSAGE value="roman_to_integer" />
     <MESSAGE value="longest_common_prefix" />
     <MESSAGE value="remove_duplicates_from_sorted_array" />
     <MESSAGE value="integer_to_roman" />
@@ -881,7 +926,9 @@
     <MESSAGE value="unique_paths_2" />
     <MESSAGE value="plus_one" />
     <MESSAGE value="set_matrix_zeroes" />
-    <option name="LAST_COMMIT_MESSAGE" value="set_matrix_zeroes" />
+    <MESSAGE value="search_a_2d_matrix" />
+    <MESSAGE value="combinations" />
+    <option name="LAST_COMMIT_MESSAGE" value="combinations" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1006,20 +1053,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/search_insert_position/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/valid_sudoku/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sudoku_solver/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
@@ -1074,13 +1107,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6545">
-          <caret line="427" column="19" selection-start-line="427" selection-start-column="19" selection-end-line="427" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1180,13 +1206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="529" column="22" lean-forward="true" selection-start-line="529" selection-start-column="22" selection-end-line="529" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="627" column="6" selection-start-line="627" selection-start-column="6" selection-end-line="627" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1395,6 +1414,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="533" column="13" selection-start-line="533" selection-start-column="13" selection-end-line="533" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="627" column="6" selection-start-line="627" selection-start-column="6" selection-end-line="627" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/combinations/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/remove_duplicates_from_sorted_array_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="53" />
+          <caret line="50" column="48" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="48" />
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="20" />
+          <caret line="53" column="47" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="47" />
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="41" />
+          <caret line="55" column="38" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="38" />
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="4" selection-end-line="56" selection-end-column="13" />
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="9" />
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="19" />
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
         </state>
       </provider>
     </entry>
