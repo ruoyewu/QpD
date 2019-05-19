@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="populating_next_right_pointers_in_each_node">
-      <change afterPath="$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node_2/readme.md" afterDir="false" />
+    <list default="true" id="92be3240-59fd-4c54-a65e-a4493f36973e" name="Default" comment="populating_next_right_pointers_in_each_node_2">
+      <change afterPath="$PROJECT_DIR$/src/pascals_triangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pascals_triangle_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,37 +42,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node_2/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/triangle/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="492">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="43" />
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
-              <caret line="16" column="67" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="67" />
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="38" />
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="36" />
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="37" />
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="31" />
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="13" />
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="37" />
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="31" />
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="13" />
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="29" />
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="9" />
-              <caret line="30" column="28" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="28" />
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="20" />
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="512">
+              <caret line="38" column="67" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="67" />
+              <caret line="39" column="43" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="43" />
+              <caret line="40" column="32" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="32" />
+              <caret line="41" column="33" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="33" />
+              <caret line="42" column="47" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="47" />
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="37" />
+              <caret line="44" column="35" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="35" />
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="9" />
+              <caret line="47" column="40" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="40" />
+              <caret line="48" column="35" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="35" />
+              <caret line="49" column="42" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="42" />
+              <caret line="50" column="72" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="72" />
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="13" />
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+              <caret line="54" column="24" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="24" />
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,9 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sudoku_solver/Main.java" />
-        <option value="$PROJECT_DIR$/src/count_and_say/Main.java" />
-        <option value="$PROJECT_DIR$/src/combination_sum_2/Main.java" />
         <option value="$PROJECT_DIR$/src/combination_sum/Main.java" />
         <option value="$PROJECT_DIR$/src/first_missing_positive/Main.java" />
         <option value="$PROJECT_DIR$/src/wildcard_matching/Main.java" />
@@ -141,6 +133,9 @@
         <option value="$PROJECT_DIR$/src/default_struct/Node.java" />
         <option value="$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node/Main.java" />
         <option value="$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/pascals_triangle/Main.java" />
+        <option value="$PROJECT_DIR$/src/pascals_triangle_2/Main.java" />
+        <option value="$PROJECT_DIR$/src/triangle/Main.java" />
       </list>
     </option>
   </component>
@@ -163,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,12 +174,13 @@
               <item name="QpD" type="b2602c69:ProjectViewProjectNode" />
               <item name="QpD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="populating_next_right_pointers_in_each_node_2" type="462c0819:PsiDirectoryNode" />
+              <item name="triangle" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -413,14 +408,8 @@
       <workItem from="1557553384529" duration="8370000" />
       <workItem from="1558012087114" duration="460000" />
       <workItem from="1558012663838" duration="12021000" />
-      <workItem from="1558174575134" duration="9267000" />
-    </task>
-    <task id="LOCAL-00086" summary="subtree_of_another_tree">
-      <created>1551354863115</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1551354863116</updated>
+      <workItem from="1558174575134" duration="12618000" />
+      <workItem from="1558275012498" duration="1411000" />
     </task>
     <task id="LOCAL-00087" summary="shortest_unsorted_continuous_subarray">
       <created>1551419442763</created>
@@ -758,11 +747,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558234141722</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="populating_next_right_pointers_in_each_node_2">
+      <created>1558243045718</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1558243045718</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="688166000" />
+    <option name="totallyTimeSpent" value="692928000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -774,10 +770,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.3812601" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.38772213" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -854,7 +850,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="spiral matrix" />
     <MESSAGE value="insert_interval" />
     <MESSAGE value="length_of_last_word" />
     <MESSAGE value="permutation_sequence" />
@@ -879,7 +874,8 @@
     <MESSAGE value="convert_sorted_list_to_binary_search_tree" />
     <MESSAGE value="path_sum_2" />
     <MESSAGE value="populating_next_right_pointers_in_each_node" />
-    <option name="LAST_COMMIT_MESSAGE" value="populating_next_right_pointers_in_each_node" />
+    <MESSAGE value="populating_next_right_pointers_in_each_node_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="populating_next_right_pointers_in_each_node_2" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1033,31 +1029,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/access/JavaLangAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="136" column="9" selection-start-line="136" selection-start-column="9" selection-end-line="136" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ref/Finalizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/access/SharedSecrets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding>
-            <element signature="e#4393#4394#0" expanded="true" />
-            <element signature="e#4433#4434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/access/JavaLangRefAccess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1099,20 +1070,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="533" column="13" selection-start-line="533" selection-start-column="13" selection-end-line="533" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="627" column="6" selection-start-line="627" selection-start-column="6" selection-end-line="627" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1436,34 +1393,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="456" column="13" selection-start-line="456" selection-start-column="13" selection-end-line="456" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="571" selection-start-line="571" selection-end-line="571" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/populating_next_right_pointers_in_each_node_2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="43" />
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
-          <caret line="16" column="67" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="67" />
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="38" />
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="36" />
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="37" />
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="31" />
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="13" />
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="37" />
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="38" />
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="31" />
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="13" />
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="29" />
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="9" />
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="28" />
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="20" />
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="612">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pascals_triangle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pascals_triangle_2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/triangle/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="38" column="67" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="67" />
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="43" />
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="32" />
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="33" />
+          <caret line="42" column="47" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="47" />
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="37" />
+          <caret line="44" column="35" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="35" />
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="9" />
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="40" />
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="35" />
+          <caret line="49" column="42" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="42" />
+          <caret line="50" column="72" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="72" />
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="13" />
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="9" />
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="24" />
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
